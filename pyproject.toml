@@ -1,0 +1,8 @@
+[project]
+name = "exhibit-affinity"
+version = "0.1.0"
+description = "跨馆展品目录、展示机会和热门候选发布"
+requires-python = ">=3.11,<3.12"
+
+[tool.unittest]
+start-directory = "tests"

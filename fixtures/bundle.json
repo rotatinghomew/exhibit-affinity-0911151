@@ -1,0 +1,6823 @@
+{
+  "schema_version": 1,
+  "product": "exhibit-affinity",
+  "description": "本地合成业务记录；不对应真实个人、机构或调查结论。",
+  "tables": {
+    "items": [
+      {
+        "id": "item-000",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "family": "family-00",
+        "museum": "museum-0",
+        "language": "zh",
+        "attributes": [
+          0.18061,
+          0.07207,
+          0.00595,
+          0.84375,
+          0.72355
+        ]
+      },
+      {
+        "id": "item-001",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "family": "family-00",
+        "museum": "museum-1",
+        "language": "en",
+        "attributes": [
+          0.43365,
+          0.82642,
+          0.62036,
+          0.57356,
+          0.61897
+        ]
+      },
+      {
+        "id": "item-002",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "family": "family-01",
+        "museum": "museum-2",
+        "language": "ar",
+        "attributes": [
+          0.32339,
+          0.42791,
+          0.18538,
+          0.03601,
+          0.51864
+        ]
+      },
+      {
+        "id": "item-003",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "family": "family-01",
+        "museum": "museum-3",
+        "language": "zh",
+        "attributes": [
+          0.25969,
+          0.78536,
+          0.81298,
+          0.4259,
+          0.0482
+        ]
+      },
+      {
+        "id": "item-004",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "family": "family-02",
+        "museum": "museum-4",
+        "language": "en",
+        "attributes": [
+          0.92275,
+          0.02871,
+          0.30824,
+          0.23444,
+          0.21653
+        ]
+      },
+      {
+        "id": "item-005",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "family": "family-02",
+        "museum": "museum-0",
+        "language": "ar",
+        "attributes": [
+          0.55177,
+          0.03916,
+          0.27513,
+          0.43851,
+          0.21243
+        ]
+      },
+      {
+        "id": "item-006",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "family": "family-03",
+        "museum": "museum-1",
+        "language": "zh",
+        "attributes": [
+          0.22766,
+          0.24731,
+          0.35519,
+          0.93055,
+          0.8392
+        ]
+      },
+      {
+        "id": "item-007",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "family": "family-03",
+        "museum": "museum-2",
+        "language": "en",
+        "attributes": [
+          0.68287,
+          0.40668,
+          0.40146,
+          0.32315,
+          0.77669
+        ]
+      },
+      {
+        "id": "item-008",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "family": "family-04",
+        "museum": "museum-3",
+        "language": "ar",
+        "attributes": [
+          0.272,
+          0.3452,
+          0.5464,
+          0.25834,
+          0.52803
+        ]
+      },
+      {
+        "id": "item-009",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "family": "family-04",
+        "museum": "museum-4",
+        "language": "zh",
+        "attributes": [
+          0.19267,
+          0.55213,
+          0.364,
+          0.3146,
+          0.28465
+        ]
+      },
+      {
+        "id": "item-010",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "family": "family-05",
+        "museum": "museum-0",
+        "language": "en",
+        "attributes": [
+          0.98928,
+          0.31065,
+          0.71435,
+          0.27964,
+          0.62306
+        ]
+      },
+      {
+        "id": "item-011",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "family": "family-05",
+        "museum": "museum-1",
+        "language": "ar",
+        "attributes": [
+          0.50538,
+          0.49062,
+          0.72465,
+          0.4212,
+          0.72649
+        ]
+      },
+      {
+        "id": "item-012",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "family": "family-06",
+        "museum": "museum-2",
+        "language": "zh",
+        "attributes": [
+          0.1272,
+          0.89171,
+          0.54673,
+          0.03078,
+          0.59457
+        ]
+      },
+      {
+        "id": "item-013",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "family": "family-06",
+        "museum": "museum-3",
+        "language": "en",
+        "attributes": [
+          0.77566,
+          0.34423,
+          0.3227,
+          0.98408,
+          0.82723
+        ]
+      },
+      {
+        "id": "item-014",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "family": "family-07",
+        "museum": "museum-4",
+        "language": "ar",
+        "attributes": [
+          0.75166,
+          0.94557,
+          0.67025,
+          0.61028,
+          0.05412
+        ]
+      },
+      {
+        "id": "item-015",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "family": "family-07",
+        "museum": "museum-0",
+        "language": "zh",
+        "attributes": [
+          0.56513,
+          0.04652,
+          0.78293,
+          0.53141,
+          0.62536
+        ]
+      },
+      {
+        "id": "item-016",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "family": "family-08",
+        "museum": "museum-1",
+        "language": "en",
+        "attributes": [
+          0.48449,
+          0.87655,
+          0.04316,
+          0.03003,
+          0.52455
+        ]
+      },
+      {
+        "id": "item-017",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "family": "family-08",
+        "museum": "museum-2",
+        "language": "ar",
+        "attributes": [
+          0.69942,
+          0.50055,
+          0.79421,
+          0.83468,
+          0.49147
+        ]
+      },
+      {
+        "id": "item-018",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "family": "family-09",
+        "museum": "museum-3",
+        "language": "zh",
+        "attributes": [
+          0.91676,
+          0.18974,
+          0.8455,
+          0.87205,
+          0.02269
+        ]
+      },
+      {
+        "id": "item-019",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "family": "family-09",
+        "museum": "museum-4",
+        "language": "en",
+        "attributes": [
+          0.45311,
+          0.04544,
+          0.93244,
+          0.62772,
+          0.1797
+        ]
+      },
+      {
+        "id": "item-020",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "family": "family-10",
+        "museum": "museum-0",
+        "language": "ar",
+        "attributes": [
+          0.52923,
+          0.06816,
+          0.81558,
+          0.57044,
+          0.2908
+        ]
+      },
+      {
+        "id": "item-021",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "family": "family-10",
+        "museum": "museum-1",
+        "language": "zh",
+        "attributes": [
+          0.12976,
+          0.72207,
+          0.25336,
+          0.86588,
+          0.90004
+        ]
+      },
+      {
+        "id": "item-022",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "family": "family-11",
+        "museum": "museum-2",
+        "language": "en",
+        "attributes": [
+          0.50954,
+          0.87744,
+          0.69783,
+          0.92664,
+          0.13058
+        ]
+      },
+      {
+        "id": "item-023",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "family": "family-11",
+        "museum": "museum-3",
+        "language": "ar",
+        "attributes": [
+          0.47995,
+          0.74947,
+          0.70519,
+          0.97918,
+          0.34677
+        ]
+      },
+      {
+        "id": "item-024",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "family": "family-12",
+        "museum": "museum-4",
+        "language": "zh",
+        "attributes": [
+          0.1979,
+          0.39514,
+          0.24973,
+          0.72678,
+          0.23557
+        ]
+      },
+      {
+        "id": "item-025",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "family": "family-12",
+        "museum": "museum-0",
+        "language": "en",
+        "attributes": [
+          0.73812,
+          0.56368,
+          0.92429,
+          0.26657,
+          0.90294
+        ]
+      },
+      {
+        "id": "item-026",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "family": "family-13",
+        "museum": "museum-1",
+        "language": "ar",
+        "attributes": [
+          0.64765,
+          0.83933,
+          0.64398,
+          0.4411,
+          0.59989
+        ]
+      },
+      {
+        "id": "item-027",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "family": "family-13",
+        "museum": "museum-2",
+        "language": "zh",
+        "attributes": [
+          0.22595,
+          0.90622,
+          0.05392,
+          0.32612,
+          0.65042
+        ]
+      },
+      {
+        "id": "item-028",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "family": "family-14",
+        "museum": "museum-3",
+        "language": "en",
+        "attributes": [
+          0.4478,
+          0.64899,
+          0.35766,
+          0.69561,
+          0.37231
+        ]
+      },
+      {
+        "id": "item-029",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "family": "family-14",
+        "museum": "museum-4",
+        "language": "ar",
+        "attributes": [
+          0.09832,
+          0.35607,
+          0.9752,
+          0.30805,
+          0.95711
+        ]
+      },
+      {
+        "id": "item-030",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "family": "family-15",
+        "museum": "museum-0",
+        "language": "zh",
+        "attributes": [
+          0.73909,
+          0.36437,
+          0.65246,
+          0.42778,
+          0.72426
+        ]
+      },
+      {
+        "id": "item-031",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "family": "family-15",
+        "museum": "museum-1",
+        "language": "en",
+        "attributes": [
+          0.46485,
+          0.41026,
+          0.34468,
+          0.25037,
+          0.42774
+        ]
+      },
+      {
+        "id": "item-032",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "family": "family-16",
+        "museum": "museum-2",
+        "language": "ar",
+        "attributes": [
+          0.06177,
+          0.42058,
+          0.85765,
+          0.14347,
+          0.56354
+        ]
+      },
+      {
+        "id": "item-033",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "family": "family-16",
+        "museum": "museum-3",
+        "language": "zh",
+        "attributes": [
+          0.11144,
+          0.25572,
+          0.97198,
+          0.48888,
+          0.08643
+        ]
+      },
+      {
+        "id": "item-034",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "family": "family-17",
+        "museum": "museum-4",
+        "language": "en",
+        "attributes": [
+          0.528,
+          0.84943,
+          0.49763,
+          0.24011,
+          0.33564
+        ]
+      },
+      {
+        "id": "item-035",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "family": "family-17",
+        "museum": "museum-0",
+        "language": "ar",
+        "attributes": [
+          0.61158,
+          0.33666,
+          0.93308,
+          0.61643,
+          0.21018
+        ]
+      },
+      {
+        "id": "item-036",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "family": "family-18",
+        "museum": "museum-1",
+        "language": "zh",
+        "attributes": [
+          0.04324,
+          0.72866,
+          0.33575,
+          0.74724,
+          0.96584
+        ]
+      },
+      {
+        "id": "item-037",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "family": "family-18",
+        "museum": "museum-2",
+        "language": "en",
+        "attributes": [
+          0.23055,
+          0.42866,
+          0.58083,
+          0.51064,
+          0.63718
+        ]
+      },
+      {
+        "id": "item-038",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "family": "family-19",
+        "museum": "museum-3",
+        "language": "ar",
+        "attributes": [
+          0.07845,
+          0.15281,
+          0.06097,
+          0.12422,
+          0.42427
+        ]
+      },
+      {
+        "id": "item-039",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "family": "family-19",
+        "museum": "museum-4",
+        "language": "zh",
+        "attributes": [
+          0.62578,
+          0.01578,
+          0.7045,
+          0.71322,
+          0.87224
+        ]
+      },
+      {
+        "id": "item-040",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "family": "family-20",
+        "museum": "museum-0",
+        "language": "en",
+        "attributes": [
+          0.90654,
+          0.55198,
+          0.67279,
+          0.24634,
+          0.1477
+        ]
+      },
+      {
+        "id": "item-041",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "family": "family-20",
+        "museum": "museum-1",
+        "language": "ar",
+        "attributes": [
+          0.26164,
+          0.64154,
+          0.80115,
+          0.9228,
+          0.05936
+        ]
+      },
+      {
+        "id": "item-042",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "family": "family-21",
+        "museum": "museum-2",
+        "language": "zh",
+        "attributes": [
+          0.07584,
+          0.8485,
+          0.01682,
+          0.90985,
+          0.22156
+        ]
+      },
+      {
+        "id": "item-043",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "family": "family-21",
+        "museum": "museum-3",
+        "language": "en",
+        "attributes": [
+          0.73328,
+          0.51228,
+          0.68204,
+          0.07363,
+          0.59669
+        ]
+      },
+      {
+        "id": "item-044",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "family": "family-22",
+        "museum": "museum-4",
+        "language": "ar",
+        "attributes": [
+          0.7983,
+          0.55196,
+          0.75008,
+          0.86656,
+          0.14235
+        ]
+      },
+      {
+        "id": "item-045",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "family": "family-22",
+        "museum": "museum-0",
+        "language": "zh",
+        "attributes": [
+          0.40721,
+          0.90044,
+          0.52798,
+          0.79088,
+          0.2349
+        ]
+      },
+      {
+        "id": "item-046",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "family": "family-23",
+        "museum": "museum-1",
+        "language": "en",
+        "attributes": [
+          0.72745,
+          0.12461,
+          0.50465,
+          0.1347,
+          0.47207
+        ]
+      },
+      {
+        "id": "item-047",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "family": "family-23",
+        "museum": "museum-2",
+        "language": "ar",
+        "attributes": [
+          0.34362,
+          0.02556,
+          0.25312,
+          0.37869,
+          0.41214
+        ]
+      },
+      {
+        "id": "item-048",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "family": "family-24",
+        "museum": "museum-3",
+        "language": "zh",
+        "attributes": [
+          0.22701,
+          0.32263,
+          0.76995,
+          0.83303,
+          0.77393
+        ]
+      },
+      {
+        "id": "item-049",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "family": "family-24",
+        "museum": "museum-4",
+        "language": "en",
+        "attributes": [
+          0.68081,
+          0.61108,
+          0.31254,
+          0.46124,
+          0.77792
+        ]
+      },
+      {
+        "id": "item-050",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "family": "family-25",
+        "museum": "museum-0",
+        "language": "ar",
+        "attributes": [
+          0.71765,
+          0.83924,
+          0.07186,
+          0.0678,
+          0.07161
+        ]
+      },
+      {
+        "id": "item-051",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "family": "family-25",
+        "museum": "museum-1",
+        "language": "zh",
+        "attributes": [
+          0.47963,
+          0.80662,
+          0.5186,
+          0.70048,
+          0.81894
+        ]
+      },
+      {
+        "id": "item-052",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "family": "family-26",
+        "museum": "museum-2",
+        "language": "en",
+        "attributes": [
+          0.75649,
+          0.81132,
+          0.98362,
+          0.46145,
+          0.20927
+        ]
+      },
+      {
+        "id": "item-053",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "family": "family-26",
+        "museum": "museum-3",
+        "language": "ar",
+        "attributes": [
+          0.61971,
+          0.54076,
+          0.20431,
+          0.80795,
+          0.00247
+        ]
+      },
+      {
+        "id": "item-054",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "family": "family-27",
+        "museum": "museum-4",
+        "language": "zh",
+        "attributes": [
+          0.42178,
+          0.14378,
+          0.83578,
+          0.48313,
+          0.59397
+        ]
+      },
+      {
+        "id": "item-055",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "family": "family-27",
+        "museum": "museum-0",
+        "language": "en",
+        "attributes": [
+          0.78959,
+          0.8939,
+          0.06427,
+          0.01423,
+          0.86386
+        ]
+      },
+      {
+        "id": "item-056",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "family": "family-28",
+        "museum": "museum-1",
+        "language": "ar",
+        "attributes": [
+          0.93517,
+          0.59662,
+          0.53741,
+          0.0414,
+          0.35566
+        ]
+      },
+      {
+        "id": "item-057",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "family": "family-28",
+        "museum": "museum-2",
+        "language": "zh",
+        "attributes": [
+          0.10636,
+          0.77271,
+          0.40232,
+          0.81978,
+          0.38988
+        ]
+      },
+      {
+        "id": "item-058",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "family": "family-29",
+        "museum": "museum-3",
+        "language": "en",
+        "attributes": [
+          0.46467,
+          0.3227,
+          0.93982,
+          0.05654,
+          0.92887
+        ]
+      },
+      {
+        "id": "item-059",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "family": "family-29",
+        "museum": "museum-4",
+        "language": "ar",
+        "attributes": [
+          0.80414,
+          0.7572,
+          0.80634,
+          0.63179,
+          0.19672
+        ]
+      },
+      {
+        "id": "item-060",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "family": "family-30",
+        "museum": "museum-0",
+        "language": "zh",
+        "attributes": [
+          0.34791,
+          0.2823,
+          0.46062,
+          0.89739,
+          0.24754
+        ]
+      },
+      {
+        "id": "item-061",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "family": "family-30",
+        "museum": "museum-1",
+        "language": "en",
+        "attributes": [
+          0.99915,
+          0.30001,
+          0.44592,
+          0.32721,
+          0.18974
+        ]
+      },
+      {
+        "id": "item-062",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "family": "family-31",
+        "museum": "museum-2",
+        "language": "ar",
+        "attributes": [
+          0.12777,
+          0.23382,
+          0.8765,
+          0.48377,
+          0.55994
+        ]
+      },
+      {
+        "id": "item-063",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "family": "family-31",
+        "museum": "museum-3",
+        "language": "zh",
+        "attributes": [
+          0.33763,
+          0.72813,
+          0.88969,
+          0.68766,
+          0.8445
+        ]
+      },
+      {
+        "id": "item-064",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "family": "family-32",
+        "museum": "museum-4",
+        "language": "en",
+        "attributes": [
+          0.82723,
+          0.97369,
+          0.07059,
+          0.20598,
+          0.34808
+        ]
+      },
+      {
+        "id": "item-065",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "family": "family-32",
+        "museum": "museum-0",
+        "language": "ar",
+        "attributes": [
+          0.24301,
+          0.99576,
+          0.25587,
+          0.26425,
+          0.22942
+        ]
+      },
+      {
+        "id": "item-066",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "family": "family-33",
+        "museum": "museum-1",
+        "language": "zh",
+        "attributes": [
+          0.24973,
+          0.49015,
+          0.94715,
+          0.89615,
+          0.5359
+        ]
+      },
+      {
+        "id": "item-067",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "family": "family-33",
+        "museum": "museum-2",
+        "language": "en",
+        "attributes": [
+          0.9854,
+          0.86687,
+          0.75307,
+          0.31893,
+          0.39096
+        ]
+      },
+      {
+        "id": "item-068",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "family": "family-34",
+        "museum": "museum-3",
+        "language": "ar",
+        "attributes": [
+          0.13465,
+          0.88087,
+          0.29753,
+          0.02141,
+          0.00554
+        ]
+      },
+      {
+        "id": "item-069",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "family": "family-34",
+        "museum": "museum-4",
+        "language": "zh",
+        "attributes": [
+          0.26015,
+          0.22051,
+          0.6943,
+          0.86932,
+          0.48189
+        ]
+      },
+      {
+        "id": "item-070",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "family": "family-35",
+        "museum": "museum-0",
+        "language": "en",
+        "attributes": [
+          0.50648,
+          0.25693,
+          0.78702,
+          0.59338,
+          0.97844
+        ]
+      },
+      {
+        "id": "item-071",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "family": "family-35",
+        "museum": "museum-1",
+        "language": "ar",
+        "attributes": [
+          0.92805,
+          0.73628,
+          0.11261,
+          0.34553,
+          0.25977
+        ]
+      }
+    ],
+    "impressions": [
+      {
+        "id": "view-0",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "item": "item-038",
+        "user": "editor-00",
+        "slate": "slate-0",
+        "propensity": 0.152
+      },
+      {
+        "id": "view-1",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "item": "item-042",
+        "user": "editor-01",
+        "slate": "slate-0",
+        "propensity": 0.553
+      },
+      {
+        "id": "view-2",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "item": "item-041",
+        "user": "editor-02",
+        "slate": "slate-0",
+        "propensity": 0.11
+      },
+      {
+        "id": "view-3",
+        "revision": 1,
+        "released_at": "2024-01-02",
+        "item": "item-043",
+        "user": "editor-03",
+        "slate": "slate-0",
+        "propensity": 0.296
+      },
+      {
+        "id": "view-4",
+        "revision": 1,
+        "released_at": "2024-01-02",
+        "item": "item-022",
+        "user": "editor-04",
+        "slate": "slate-0",
+        "propensity": 0.164
+      },
+      {
+        "id": "view-5",
+        "revision": 1,
+        "released_at": "2024-01-02",
+        "item": "item-029",
+        "user": "editor-05",
+        "slate": "slate-0",
+        "propensity": 0.18
+      },
+      {
+        "id": "view-6",
+        "revision": 1,
+        "released_at": "2024-01-03",
+        "item": "item-017",
+        "user": "editor-06",
+        "slate": "slate-1",
+        "propensity": 0.354
+      },
+      {
+        "id": "view-7",
+        "revision": 1,
+        "released_at": "2024-01-03",
+        "item": "item-050",
+        "user": "editor-07",
+        "slate": "slate-1",
+        "propensity": 0.466
+      },
+      {
+        "id": "view-8",
+        "revision": 1,
+        "released_at": "2024-01-03",
+        "item": "item-002",
+        "user": "editor-08",
+        "slate": "slate-1",
+        "propensity": 0.313
+      },
+      {
+        "id": "view-9",
+        "revision": 1,
+        "released_at": "2024-01-04",
+        "item": "item-016",
+        "user": "editor-09",
+        "slate": "slate-1",
+        "propensity": 0.454
+      },
+      {
+        "id": "view-10",
+        "revision": 1,
+        "released_at": "2024-01-04",
+        "item": "item-025",
+        "user": "editor-10",
+        "slate": "slate-1",
+        "propensity": 0.368
+      },
+      {
+        "id": "view-11",
+        "revision": 1,
+        "released_at": "2024-01-04",
+        "item": "item-008",
+        "user": "editor-11",
+        "slate": "slate-1",
+        "propensity": 0.141
+      },
+      {
+        "id": "view-12",
+        "revision": 1,
+        "released_at": "2024-01-05",
+        "item": "item-034",
+        "user": "editor-12",
+        "slate": "slate-2",
+        "propensity": 0.215
+      },
+      {
+        "id": "view-13",
+        "revision": 1,
+        "released_at": "2024-01-05",
+        "item": "item-030",
+        "user": "editor-13",
+        "slate": "slate-2",
+        "propensity": 0.309
+      },
+      {
+        "id": "view-14",
+        "revision": 1,
+        "released_at": "2024-01-05",
+        "item": "item-054",
+        "user": "editor-14",
+        "slate": "slate-2",
+        "propensity": 0.575
+      },
+      {
+        "id": "view-15",
+        "revision": 1,
+        "released_at": "2024-01-06",
+        "item": "item-006",
+        "user": "editor-15",
+        "slate": "slate-2",
+        "propensity": 0.328
+      },
+      {
+        "id": "view-16",
+        "revision": 1,
+        "released_at": "2024-01-06",
+        "item": "item-018",
+        "user": "editor-16",
+        "slate": "slate-2",
+        "propensity": 0.421
+      },
+      {
+        "id": "view-17",
+        "revision": 1,
+        "released_at": "2024-01-06",
+        "item": "item-010",
+        "user": "editor-17",
+        "slate": "slate-2",
+        "propensity": 0.438
+      },
+      {
+        "id": "view-18",
+        "revision": 1,
+        "released_at": "2024-01-07",
+        "item": "item-029",
+        "user": "editor-18",
+        "slate": "slate-3",
+        "propensity": 0.565
+      },
+      {
+        "id": "view-19",
+        "revision": 1,
+        "released_at": "2024-01-07",
+        "item": "item-053",
+        "user": "editor-19",
+        "slate": "slate-3",
+        "propensity": 0.423
+      },
+      {
+        "id": "view-20",
+        "revision": 1,
+        "released_at": "2024-01-07",
+        "item": "item-014",
+        "user": "editor-20",
+        "slate": "slate-3",
+        "propensity": 0.519
+      },
+      {
+        "id": "view-21",
+        "revision": 1,
+        "released_at": "2024-01-08",
+        "item": "item-019",
+        "user": "editor-21",
+        "slate": "slate-3",
+        "propensity": 0.489
+      },
+      {
+        "id": "view-22",
+        "revision": 1,
+        "released_at": "2024-01-08",
+        "item": "item-031",
+        "user": "editor-22",
+        "slate": "slate-3",
+        "propensity": 0.527
+      },
+      {
+        "id": "view-23",
+        "revision": 1,
+        "released_at": "2024-01-08",
+        "item": "item-055",
+        "user": "editor-23",
+        "slate": "slate-3",
+        "propensity": 0.325
+      },
+      {
+        "id": "view-24",
+        "revision": 1,
+        "released_at": "2024-01-09",
+        "item": "item-049",
+        "user": "editor-00",
+        "slate": "slate-4",
+        "propensity": 0.207
+      },
+      {
+        "id": "view-25",
+        "revision": 1,
+        "released_at": "2024-01-09",
+        "item": "item-053",
+        "user": "editor-01",
+        "slate": "slate-4",
+        "propensity": 0.202
+      },
+      {
+        "id": "view-26",
+        "revision": 1,
+        "released_at": "2024-01-09",
+        "item": "item-007",
+        "user": "editor-02",
+        "slate": "slate-4",
+        "propensity": 0.38
+      },
+      {
+        "id": "view-27",
+        "revision": 1,
+        "released_at": "2024-01-10",
+        "item": "item-039",
+        "user": "editor-03",
+        "slate": "slate-4",
+        "propensity": 0.259
+      },
+      {
+        "id": "view-28",
+        "revision": 1,
+        "released_at": "2024-01-10",
+        "item": "item-052",
+        "user": "editor-04",
+        "slate": "slate-4",
+        "propensity": 0.59
+      },
+      {
+        "id": "view-29",
+        "revision": 1,
+        "released_at": "2024-01-10",
+        "item": "item-031",
+        "user": "editor-05",
+        "slate": "slate-4",
+        "propensity": 0.337
+      },
+      {
+        "id": "view-30",
+        "revision": 1,
+        "released_at": "2024-01-11",
+        "item": "item-022",
+        "user": "editor-06",
+        "slate": "slate-5",
+        "propensity": 0.286
+      },
+      {
+        "id": "view-31",
+        "revision": 1,
+        "released_at": "2024-01-11",
+        "item": "item-028",
+        "user": "editor-07",
+        "slate": "slate-5",
+        "propensity": 0.434
+      },
+      {
+        "id": "view-32",
+        "revision": 1,
+        "released_at": "2024-01-11",
+        "item": "item-030",
+        "user": "editor-08",
+        "slate": "slate-5",
+        "propensity": 0.35
+      },
+      {
+        "id": "view-33",
+        "revision": 1,
+        "released_at": "2024-01-12",
+        "item": "item-022",
+        "user": "editor-09",
+        "slate": "slate-5",
+        "propensity": 0.228
+      },
+      {
+        "id": "view-34",
+        "revision": 1,
+        "released_at": "2024-01-12",
+        "item": "item-062",
+        "user": "editor-10",
+        "slate": "slate-5",
+        "propensity": 0.494
+      },
+      {
+        "id": "view-35",
+        "revision": 1,
+        "released_at": "2024-01-12",
+        "item": "item-054",
+        "user": "editor-11",
+        "slate": "slate-5",
+        "propensity": 0.385
+      },
+      {
+        "id": "view-36",
+        "revision": 1,
+        "released_at": "2024-01-13",
+        "item": "item-059",
+        "user": "editor-12",
+        "slate": "slate-6",
+        "propensity": 0.459
+      },
+      {
+        "id": "view-37",
+        "revision": 1,
+        "released_at": "2024-01-13",
+        "item": "item-027",
+        "user": "editor-13",
+        "slate": "slate-6",
+        "propensity": 0.414
+      },
+      {
+        "id": "view-38",
+        "revision": 1,
+        "released_at": "2024-01-13",
+        "item": "item-029",
+        "user": "editor-14",
+        "slate": "slate-6",
+        "propensity": 0.323
+      },
+      {
+        "id": "view-39",
+        "revision": 1,
+        "released_at": "2024-01-14",
+        "item": "item-007",
+        "user": "editor-15",
+        "slate": "slate-6",
+        "propensity": 0.426
+      },
+      {
+        "id": "view-40",
+        "revision": 1,
+        "released_at": "2024-01-14",
+        "item": "item-056",
+        "user": "editor-16",
+        "slate": "slate-6",
+        "propensity": 0.434
+      },
+      {
+        "id": "view-41",
+        "revision": 1,
+        "released_at": "2024-01-14",
+        "item": "item-002",
+        "user": "editor-17",
+        "slate": "slate-6",
+        "propensity": 0.318
+      },
+      {
+        "id": "view-42",
+        "revision": 1,
+        "released_at": "2024-01-15",
+        "item": "item-002",
+        "user": "editor-18",
+        "slate": "slate-7",
+        "propensity": 0.178
+      },
+      {
+        "id": "view-43",
+        "revision": 1,
+        "released_at": "2024-01-15",
+        "item": "item-044",
+        "user": "editor-19",
+        "slate": "slate-7",
+        "propensity": 0.191
+      },
+      {
+        "id": "view-44",
+        "revision": 1,
+        "released_at": "2024-01-15",
+        "item": "item-030",
+        "user": "editor-20",
+        "slate": "slate-7",
+        "propensity": 0.505
+      },
+      {
+        "id": "view-45",
+        "revision": 1,
+        "released_at": "2024-01-16",
+        "item": "item-031",
+        "user": "editor-21",
+        "slate": "slate-7",
+        "propensity": 0.562
+      },
+      {
+        "id": "view-46",
+        "revision": 1,
+        "released_at": "2024-01-16",
+        "item": "item-015",
+        "user": "editor-22",
+        "slate": "slate-7",
+        "propensity": 0.418
+      },
+      {
+        "id": "view-47",
+        "revision": 1,
+        "released_at": "2024-01-16",
+        "item": "item-002",
+        "user": "editor-23",
+        "slate": "slate-7",
+        "propensity": 0.526
+      },
+      {
+        "id": "view-48",
+        "revision": 1,
+        "released_at": "2024-01-17",
+        "item": "item-009",
+        "user": "editor-00",
+        "slate": "slate-8",
+        "propensity": 0.219
+      },
+      {
+        "id": "view-49",
+        "revision": 1,
+        "released_at": "2024-01-17",
+        "item": "item-046",
+        "user": "editor-01",
+        "slate": "slate-8",
+        "propensity": 0.419
+      },
+      {
+        "id": "view-50",
+        "revision": 1,
+        "released_at": "2024-01-17",
+        "item": "item-031",
+        "user": "editor-02",
+        "slate": "slate-8",
+        "propensity": 0.154
+      },
+      {
+        "id": "view-51",
+        "revision": 1,
+        "released_at": "2024-01-18",
+        "item": "item-034",
+        "user": "editor-03",
+        "slate": "slate-8",
+        "propensity": 0.442
+      },
+      {
+        "id": "view-52",
+        "revision": 1,
+        "released_at": "2024-01-18",
+        "item": "item-037",
+        "user": "editor-04",
+        "slate": "slate-8",
+        "propensity": 0.361
+      },
+      {
+        "id": "view-53",
+        "revision": 1,
+        "released_at": "2024-01-18",
+        "item": "item-039",
+        "user": "editor-05",
+        "slate": "slate-8",
+        "propensity": 0.45
+      },
+      {
+        "id": "view-54",
+        "revision": 1,
+        "released_at": "2024-01-19",
+        "item": "item-006",
+        "user": "editor-06",
+        "slate": "slate-9",
+        "propensity": 0.108
+      },
+      {
+        "id": "view-55",
+        "revision": 1,
+        "released_at": "2024-01-19",
+        "item": "item-013",
+        "user": "editor-07",
+        "slate": "slate-9",
+        "propensity": 0.202
+      },
+      {
+        "id": "view-56",
+        "revision": 1,
+        "released_at": "2024-01-19",
+        "item": "item-024",
+        "user": "editor-08",
+        "slate": "slate-9",
+        "propensity": 0.439
+      },
+      {
+        "id": "view-57",
+        "revision": 1,
+        "released_at": "2024-01-20",
+        "item": "item-033",
+        "user": "editor-09",
+        "slate": "slate-9",
+        "propensity": 0.495
+      },
+      {
+        "id": "view-58",
+        "revision": 1,
+        "released_at": "2024-01-20",
+        "item": "item-024",
+        "user": "editor-10",
+        "slate": "slate-9",
+        "propensity": 0.369
+      },
+      {
+        "id": "view-59",
+        "revision": 1,
+        "released_at": "2024-01-20",
+        "item": "item-056",
+        "user": "editor-11",
+        "slate": "slate-9",
+        "propensity": 0.497
+      },
+      {
+        "id": "view-60",
+        "revision": 1,
+        "released_at": "2024-01-21",
+        "item": "item-004",
+        "user": "editor-12",
+        "slate": "slate-10",
+        "propensity": 0.296
+      },
+      {
+        "id": "view-61",
+        "revision": 1,
+        "released_at": "2024-01-21",
+        "item": "item-034",
+        "user": "editor-13",
+        "slate": "slate-10",
+        "propensity": 0.334
+      },
+      {
+        "id": "view-62",
+        "revision": 1,
+        "released_at": "2024-01-21",
+        "item": "item-004",
+        "user": "editor-14",
+        "slate": "slate-10",
+        "propensity": 0.15
+      },
+      {
+        "id": "view-63",
+        "revision": 1,
+        "released_at": "2024-01-22",
+        "item": "item-037",
+        "user": "editor-15",
+        "slate": "slate-10",
+        "propensity": 0.557
+      },
+      {
+        "id": "view-64",
+        "revision": 1,
+        "released_at": "2024-01-22",
+        "item": "item-052",
+        "user": "editor-16",
+        "slate": "slate-10",
+        "propensity": 0.513
+      },
+      {
+        "id": "view-65",
+        "revision": 1,
+        "released_at": "2024-01-22",
+        "item": "item-051",
+        "user": "editor-17",
+        "slate": "slate-10",
+        "propensity": 0.579
+      },
+      {
+        "id": "view-66",
+        "revision": 1,
+        "released_at": "2024-01-23",
+        "item": "item-058",
+        "user": "editor-18",
+        "slate": "slate-11",
+        "propensity": 0.377
+      },
+      {
+        "id": "view-67",
+        "revision": 1,
+        "released_at": "2024-01-23",
+        "item": "item-007",
+        "user": "editor-19",
+        "slate": "slate-11",
+        "propensity": 0.314
+      },
+      {
+        "id": "view-68",
+        "revision": 1,
+        "released_at": "2024-01-23",
+        "item": "item-049",
+        "user": "editor-20",
+        "slate": "slate-11",
+        "propensity": 0.4
+      },
+      {
+        "id": "view-69",
+        "revision": 1,
+        "released_at": "2024-01-24",
+        "item": "item-026",
+        "user": "editor-21",
+        "slate": "slate-11",
+        "propensity": 0.513
+      },
+      {
+        "id": "view-70",
+        "revision": 1,
+        "released_at": "2024-01-24",
+        "item": "item-018",
+        "user": "editor-22",
+        "slate": "slate-11",
+        "propensity": 0.44
+      },
+      {
+        "id": "view-71",
+        "revision": 1,
+        "released_at": "2024-01-24",
+        "item": "item-012",
+        "user": "editor-23",
+        "slate": "slate-11",
+        "propensity": 0.257
+      },
+      {
+        "id": "view-72",
+        "revision": 1,
+        "released_at": "2024-01-25",
+        "item": "item-023",
+        "user": "editor-00",
+        "slate": "slate-12",
+        "propensity": 0.125
+      },
+      {
+        "id": "view-73",
+        "revision": 1,
+        "released_at": "2024-01-25",
+        "item": "item-061",
+        "user": "editor-01",
+        "slate": "slate-12",
+        "propensity": 0.497
+      },
+      {
+        "id": "view-74",
+        "revision": 1,
+        "released_at": "2024-01-25",
+        "item": "item-054",
+        "user": "editor-02",
+        "slate": "slate-12",
+        "propensity": 0.417
+      },
+      {
+        "id": "view-75",
+        "revision": 1,
+        "released_at": "2024-01-26",
+        "item": "item-015",
+        "user": "editor-03",
+        "slate": "slate-12",
+        "propensity": 0.337
+      },
+      {
+        "id": "view-76",
+        "revision": 1,
+        "released_at": "2024-01-26",
+        "item": "item-034",
+        "user": "editor-04",
+        "slate": "slate-12",
+        "propensity": 0.502
+      },
+      {
+        "id": "view-77",
+        "revision": 1,
+        "released_at": "2024-01-26",
+        "item": "item-032",
+        "user": "editor-05",
+        "slate": "slate-12",
+        "propensity": 0.451
+      },
+      {
+        "id": "view-78",
+        "revision": 1,
+        "released_at": "2024-01-27",
+        "item": "item-053",
+        "user": "editor-06",
+        "slate": "slate-13",
+        "propensity": 0.568
+      },
+      {
+        "id": "view-79",
+        "revision": 1,
+        "released_at": "2024-01-27",
+        "item": "item-022",
+        "user": "editor-07",
+        "slate": "slate-13",
+        "propensity": 0.555
+      },
+      {
+        "id": "view-80",
+        "revision": 1,
+        "released_at": "2024-01-27",
+        "item": "item-001",
+        "user": "editor-08",
+        "slate": "slate-13",
+        "propensity": 0.153
+      },
+      {
+        "id": "view-81",
+        "revision": 1,
+        "released_at": "2024-01-28",
+        "item": "item-059",
+        "user": "editor-09",
+        "slate": "slate-13",
+        "propensity": 0.577
+      },
+      {
+        "id": "view-82",
+        "revision": 1,
+        "released_at": "2024-01-28",
+        "item": "item-046",
+        "user": "editor-10",
+        "slate": "slate-13",
+        "propensity": 0.422
+      },
+      {
+        "id": "view-83",
+        "revision": 1,
+        "released_at": "2024-01-28",
+        "item": "item-004",
+        "user": "editor-11",
+        "slate": "slate-13",
+        "propensity": 0.431
+      },
+      {
+        "id": "view-84",
+        "revision": 1,
+        "released_at": "2024-01-29",
+        "item": "item-045",
+        "user": "editor-12",
+        "slate": "slate-14",
+        "propensity": 0.177
+      },
+      {
+        "id": "view-85",
+        "revision": 1,
+        "released_at": "2024-01-29",
+        "item": "item-035",
+        "user": "editor-13",
+        "slate": "slate-14",
+        "propensity": 0.237
+      },
+      {
+        "id": "view-86",
+        "revision": 1,
+        "released_at": "2024-01-29",
+        "item": "item-025",
+        "user": "editor-14",
+        "slate": "slate-14",
+        "propensity": 0.457
+      },
+      {
+        "id": "view-87",
+        "revision": 1,
+        "released_at": "2024-01-30",
+        "item": "item-035",
+        "user": "editor-15",
+        "slate": "slate-14",
+        "propensity": 0.521
+      },
+      {
+        "id": "view-88",
+        "revision": 1,
+        "released_at": "2024-01-30",
+        "item": "item-001",
+        "user": "editor-16",
+        "slate": "slate-14",
+        "propensity": 0.326
+      },
+      {
+        "id": "view-89",
+        "revision": 1,
+        "released_at": "2024-01-30",
+        "item": "item-026",
+        "user": "editor-17",
+        "slate": "slate-14",
+        "propensity": 0.352
+      },
+      {
+        "id": "view-90",
+        "revision": 1,
+        "released_at": "2024-01-31",
+        "item": "item-032",
+        "user": "editor-18",
+        "slate": "slate-15",
+        "propensity": 0.117
+      },
+      {
+        "id": "view-91",
+        "revision": 1,
+        "released_at": "2024-01-31",
+        "item": "item-049",
+        "user": "editor-19",
+        "slate": "slate-15",
+        "propensity": 0.564
+      },
+      {
+        "id": "view-92",
+        "revision": 1,
+        "released_at": "2024-01-31",
+        "item": "item-015",
+        "user": "editor-20",
+        "slate": "slate-15",
+        "propensity": 0.177
+      },
+      {
+        "id": "view-93",
+        "revision": 1,
+        "released_at": "2024-02-01",
+        "item": "item-027",
+        "user": "editor-21",
+        "slate": "slate-15",
+        "propensity": 0.17
+      },
+      {
+        "id": "view-94",
+        "revision": 1,
+        "released_at": "2024-02-01",
+        "item": "item-023",
+        "user": "editor-22",
+        "slate": "slate-15",
+        "propensity": 0.355
+      },
+      {
+        "id": "view-95",
+        "revision": 1,
+        "released_at": "2024-02-01",
+        "item": "item-012",
+        "user": "editor-23",
+        "slate": "slate-15",
+        "propensity": 0.502
+      },
+      {
+        "id": "view-96",
+        "revision": 1,
+        "released_at": "2024-02-02",
+        "item": "item-031",
+        "user": "editor-00",
+        "slate": "slate-16",
+        "propensity": 0.179
+      },
+      {
+        "id": "view-97",
+        "revision": 1,
+        "released_at": "2024-02-02",
+        "item": "item-046",
+        "user": "editor-01",
+        "slate": "slate-16",
+        "propensity": 0.262
+      },
+      {
+        "id": "view-98",
+        "revision": 1,
+        "released_at": "2024-02-02",
+        "item": "item-062",
+        "user": "editor-02",
+        "slate": "slate-16",
+        "propensity": 0.274
+      },
+      {
+        "id": "view-99",
+        "revision": 1,
+        "released_at": "2024-02-03",
+        "item": "item-008",
+        "user": "editor-03",
+        "slate": "slate-16",
+        "propensity": 0.492
+      },
+      {
+        "id": "view-100",
+        "revision": 1,
+        "released_at": "2024-02-03",
+        "item": "item-013",
+        "user": "editor-04",
+        "slate": "slate-16",
+        "propensity": 0.155
+      },
+      {
+        "id": "view-101",
+        "revision": 1,
+        "released_at": "2024-02-03",
+        "item": "item-019",
+        "user": "editor-05",
+        "slate": "slate-16",
+        "propensity": 0.148
+      },
+      {
+        "id": "view-102",
+        "revision": 1,
+        "released_at": "2024-02-04",
+        "item": "item-025",
+        "user": "editor-06",
+        "slate": "slate-17",
+        "propensity": 0.263
+      },
+      {
+        "id": "view-103",
+        "revision": 1,
+        "released_at": "2024-02-04",
+        "item": "item-005",
+        "user": "editor-07",
+        "slate": "slate-17",
+        "propensity": 0.243
+      },
+      {
+        "id": "view-104",
+        "revision": 1,
+        "released_at": "2024-02-04",
+        "item": "item-028",
+        "user": "editor-08",
+        "slate": "slate-17",
+        "propensity": 0.153
+      },
+      {
+        "id": "view-105",
+        "revision": 1,
+        "released_at": "2024-02-05",
+        "item": "item-007",
+        "user": "editor-09",
+        "slate": "slate-17",
+        "propensity": 0.361
+      },
+      {
+        "id": "view-106",
+        "revision": 1,
+        "released_at": "2024-02-05",
+        "item": "item-024",
+        "user": "editor-10",
+        "slate": "slate-17",
+        "propensity": 0.298
+      },
+      {
+        "id": "view-107",
+        "revision": 1,
+        "released_at": "2024-02-05",
+        "item": "item-059",
+        "user": "editor-11",
+        "slate": "slate-17",
+        "propensity": 0.385
+      },
+      {
+        "id": "view-108",
+        "revision": 1,
+        "released_at": "2024-02-06",
+        "item": "item-037",
+        "user": "editor-12",
+        "slate": "slate-18",
+        "propensity": 0.406
+      },
+      {
+        "id": "view-109",
+        "revision": 1,
+        "released_at": "2024-02-06",
+        "item": "item-004",
+        "user": "editor-13",
+        "slate": "slate-18",
+        "propensity": 0.35
+      },
+      {
+        "id": "view-110",
+        "revision": 1,
+        "released_at": "2024-02-06",
+        "item": "item-022",
+        "user": "editor-14",
+        "slate": "slate-18",
+        "propensity": 0.451
+      },
+      {
+        "id": "view-111",
+        "revision": 1,
+        "released_at": "2024-02-07",
+        "item": "item-014",
+        "user": "editor-15",
+        "slate": "slate-18",
+        "propensity": 0.286
+      },
+      {
+        "id": "view-112",
+        "revision": 1,
+        "released_at": "2024-02-07",
+        "item": "item-047",
+        "user": "editor-16",
+        "slate": "slate-18",
+        "propensity": 0.567
+      },
+      {
+        "id": "view-113",
+        "revision": 1,
+        "released_at": "2024-02-07",
+        "item": "item-063",
+        "user": "editor-17",
+        "slate": "slate-18",
+        "propensity": 0.42
+      },
+      {
+        "id": "view-114",
+        "revision": 1,
+        "released_at": "2024-02-08",
+        "item": "item-027",
+        "user": "editor-18",
+        "slate": "slate-19",
+        "propensity": 0.219
+      },
+      {
+        "id": "view-115",
+        "revision": 1,
+        "released_at": "2024-02-08",
+        "item": "item-051",
+        "user": "editor-19",
+        "slate": "slate-19",
+        "propensity": 0.5
+      },
+      {
+        "id": "view-116",
+        "revision": 1,
+        "released_at": "2024-02-08",
+        "item": "item-054",
+        "user": "editor-20",
+        "slate": "slate-19",
+        "propensity": 0.287
+      },
+      {
+        "id": "view-117",
+        "revision": 1,
+        "released_at": "2024-02-09",
+        "item": "item-021",
+        "user": "editor-21",
+        "slate": "slate-19",
+        "propensity": 0.127
+      },
+      {
+        "id": "view-118",
+        "revision": 1,
+        "released_at": "2024-02-09",
+        "item": "item-045",
+        "user": "editor-22",
+        "slate": "slate-19",
+        "propensity": 0.515
+      },
+      {
+        "id": "view-119",
+        "revision": 1,
+        "released_at": "2024-02-09",
+        "item": "item-018",
+        "user": "editor-23",
+        "slate": "slate-19",
+        "propensity": 0.574
+      },
+      {
+        "id": "view-120",
+        "revision": 1,
+        "released_at": "2024-02-10",
+        "item": "item-009",
+        "user": "editor-00",
+        "slate": "slate-20",
+        "propensity": 0.382
+      },
+      {
+        "id": "view-121",
+        "revision": 1,
+        "released_at": "2024-02-10",
+        "item": "item-043",
+        "user": "editor-01",
+        "slate": "slate-20",
+        "propensity": 0.577
+      },
+      {
+        "id": "view-122",
+        "revision": 1,
+        "released_at": "2024-02-10",
+        "item": "item-044",
+        "user": "editor-02",
+        "slate": "slate-20",
+        "propensity": 0.116
+      },
+      {
+        "id": "view-123",
+        "revision": 1,
+        "released_at": "2024-02-11",
+        "item": "item-011",
+        "user": "editor-03",
+        "slate": "slate-20",
+        "propensity": 0.351
+      },
+      {
+        "id": "view-124",
+        "revision": 1,
+        "released_at": "2024-02-11",
+        "item": "item-008",
+        "user": "editor-04",
+        "slate": "slate-20",
+        "propensity": 0.232
+      },
+      {
+        "id": "view-125",
+        "revision": 1,
+        "released_at": "2024-02-11",
+        "item": "item-041",
+        "user": "editor-05",
+        "slate": "slate-20",
+        "propensity": 0.434
+      },
+      {
+        "id": "view-126",
+        "revision": 1,
+        "released_at": "2024-02-12",
+        "item": "item-034",
+        "user": "editor-06",
+        "slate": "slate-21",
+        "propensity": 0.244
+      },
+      {
+        "id": "view-127",
+        "revision": 1,
+        "released_at": "2024-02-12",
+        "item": "item-012",
+        "user": "editor-07",
+        "slate": "slate-21",
+        "propensity": 0.521
+      },
+      {
+        "id": "view-128",
+        "revision": 1,
+        "released_at": "2024-02-12",
+        "item": "item-059",
+        "user": "editor-08",
+        "slate": "slate-21",
+        "propensity": 0.17
+      },
+      {
+        "id": "view-129",
+        "revision": 1,
+        "released_at": "2024-02-13",
+        "item": "item-049",
+        "user": "editor-09",
+        "slate": "slate-21",
+        "propensity": 0.133
+      },
+      {
+        "id": "view-130",
+        "revision": 1,
+        "released_at": "2024-02-13",
+        "item": "item-047",
+        "user": "editor-10",
+        "slate": "slate-21",
+        "propensity": 0.115
+      },
+      {
+        "id": "view-131",
+        "revision": 1,
+        "released_at": "2024-02-13",
+        "item": "item-033",
+        "user": "editor-11",
+        "slate": "slate-21",
+        "propensity": 0.224
+      },
+      {
+        "id": "view-132",
+        "revision": 1,
+        "released_at": "2024-02-14",
+        "item": "item-020",
+        "user": "editor-12",
+        "slate": "slate-22",
+        "propensity": 0.528
+      },
+      {
+        "id": "view-133",
+        "revision": 1,
+        "released_at": "2024-02-14",
+        "item": "item-057",
+        "user": "editor-13",
+        "slate": "slate-22",
+        "propensity": 0.43
+      },
+      {
+        "id": "view-134",
+        "revision": 1,
+        "released_at": "2024-02-14",
+        "item": "item-034",
+        "user": "editor-14",
+        "slate": "slate-22",
+        "propensity": 0.402
+      },
+      {
+        "id": "view-135",
+        "revision": 1,
+        "released_at": "2024-02-15",
+        "item": "item-009",
+        "user": "editor-15",
+        "slate": "slate-22",
+        "propensity": 0.17
+      },
+      {
+        "id": "view-136",
+        "revision": 1,
+        "released_at": "2024-02-15",
+        "item": "item-014",
+        "user": "editor-16",
+        "slate": "slate-22",
+        "propensity": 0.314
+      },
+      {
+        "id": "view-137",
+        "revision": 1,
+        "released_at": "2024-02-15",
+        "item": "item-010",
+        "user": "editor-17",
+        "slate": "slate-22",
+        "propensity": 0.454
+      },
+      {
+        "id": "view-138",
+        "revision": 1,
+        "released_at": "2024-02-16",
+        "item": "item-009",
+        "user": "editor-18",
+        "slate": "slate-23",
+        "propensity": 0.533
+      },
+      {
+        "id": "view-139",
+        "revision": 1,
+        "released_at": "2024-02-16",
+        "item": "item-052",
+        "user": "editor-19",
+        "slate": "slate-23",
+        "propensity": 0.104
+      },
+      {
+        "id": "view-140",
+        "revision": 1,
+        "released_at": "2024-02-16",
+        "item": "item-009",
+        "user": "editor-20",
+        "slate": "slate-23",
+        "propensity": 0.529
+      },
+      {
+        "id": "view-141",
+        "revision": 1,
+        "released_at": "2024-02-17",
+        "item": "item-013",
+        "user": "editor-21",
+        "slate": "slate-23",
+        "propensity": 0.496
+      },
+      {
+        "id": "view-142",
+        "revision": 1,
+        "released_at": "2024-02-17",
+        "item": "item-061",
+        "user": "editor-22",
+        "slate": "slate-23",
+        "propensity": 0.363
+      },
+      {
+        "id": "view-143",
+        "revision": 1,
+        "released_at": "2024-02-17",
+        "item": "item-013",
+        "user": "editor-23",
+        "slate": "slate-23",
+        "propensity": 0.405
+      },
+      {
+        "id": "view-144",
+        "revision": 1,
+        "released_at": "2024-02-18",
+        "item": "item-003",
+        "user": "editor-00",
+        "slate": "slate-24",
+        "propensity": 0.13
+      },
+      {
+        "id": "view-145",
+        "revision": 1,
+        "released_at": "2024-02-18",
+        "item": "item-035",
+        "user": "editor-01",
+        "slate": "slate-24",
+        "propensity": 0.119
+      },
+      {
+        "id": "view-146",
+        "revision": 1,
+        "released_at": "2024-02-18",
+        "item": "item-005",
+        "user": "editor-02",
+        "slate": "slate-24",
+        "propensity": 0.578
+      },
+      {
+        "id": "view-147",
+        "revision": 1,
+        "released_at": "2024-02-19",
+        "item": "item-052",
+        "user": "editor-03",
+        "slate": "slate-24",
+        "propensity": 0.542
+      },
+      {
+        "id": "view-148",
+        "revision": 1,
+        "released_at": "2024-02-19",
+        "item": "item-059",
+        "user": "editor-04",
+        "slate": "slate-24",
+        "propensity": 0.571
+      },
+      {
+        "id": "view-149",
+        "revision": 1,
+        "released_at": "2024-02-19",
+        "item": "item-037",
+        "user": "editor-05",
+        "slate": "slate-24",
+        "propensity": 0.166
+      },
+      {
+        "id": "view-150",
+        "revision": 1,
+        "released_at": "2024-02-20",
+        "item": "item-049",
+        "user": "editor-06",
+        "slate": "slate-25",
+        "propensity": 0.305
+      },
+      {
+        "id": "view-151",
+        "revision": 1,
+        "released_at": "2024-02-20",
+        "item": "item-015",
+        "user": "editor-07",
+        "slate": "slate-25",
+        "propensity": 0.422
+      },
+      {
+        "id": "view-152",
+        "revision": 1,
+        "released_at": "2024-02-20",
+        "item": "item-005",
+        "user": "editor-08",
+        "slate": "slate-25",
+        "propensity": 0.189
+      },
+      {
+        "id": "view-153",
+        "revision": 1,
+        "released_at": "2024-02-21",
+        "item": "item-050",
+        "user": "editor-09",
+        "slate": "slate-25",
+        "propensity": 0.552
+      },
+      {
+        "id": "view-154",
+        "revision": 1,
+        "released_at": "2024-02-21",
+        "item": "item-058",
+        "user": "editor-10",
+        "slate": "slate-25",
+        "propensity": 0.254
+      },
+      {
+        "id": "view-155",
+        "revision": 1,
+        "released_at": "2024-02-21",
+        "item": "item-027",
+        "user": "editor-11",
+        "slate": "slate-25",
+        "propensity": 0.207
+      },
+      {
+        "id": "view-156",
+        "revision": 1,
+        "released_at": "2024-02-22",
+        "item": "item-005",
+        "user": "editor-12",
+        "slate": "slate-26",
+        "propensity": 0.4
+      },
+      {
+        "id": "view-157",
+        "revision": 1,
+        "released_at": "2024-02-22",
+        "item": "item-038",
+        "user": "editor-13",
+        "slate": "slate-26",
+        "propensity": 0.486
+      },
+      {
+        "id": "view-158",
+        "revision": 1,
+        "released_at": "2024-02-22",
+        "item": "item-036",
+        "user": "editor-14",
+        "slate": "slate-26",
+        "propensity": 0.409
+      },
+      {
+        "id": "view-159",
+        "revision": 1,
+        "released_at": "2024-02-23",
+        "item": "item-056",
+        "user": "editor-15",
+        "slate": "slate-26",
+        "propensity": 0.59
+      },
+      {
+        "id": "view-160",
+        "revision": 1,
+        "released_at": "2024-02-23",
+        "item": "item-035",
+        "user": "editor-16",
+        "slate": "slate-26",
+        "propensity": 0.102
+      },
+      {
+        "id": "view-161",
+        "revision": 1,
+        "released_at": "2024-02-23",
+        "item": "item-014",
+        "user": "editor-17",
+        "slate": "slate-26",
+        "propensity": 0.188
+      },
+      {
+        "id": "view-162",
+        "revision": 1,
+        "released_at": "2024-02-24",
+        "item": "item-047",
+        "user": "editor-18",
+        "slate": "slate-27",
+        "propensity": 0.283
+      },
+      {
+        "id": "view-163",
+        "revision": 1,
+        "released_at": "2024-02-24",
+        "item": "item-038",
+        "user": "editor-19",
+        "slate": "slate-27",
+        "propensity": 0.123
+      },
+      {
+        "id": "view-164",
+        "revision": 1,
+        "released_at": "2024-02-24",
+        "item": "item-025",
+        "user": "editor-20",
+        "slate": "slate-27",
+        "propensity": 0.122
+      },
+      {
+        "id": "view-165",
+        "revision": 1,
+        "released_at": "2024-02-25",
+        "item": "item-033",
+        "user": "editor-21",
+        "slate": "slate-27",
+        "propensity": 0.4
+      },
+      {
+        "id": "view-166",
+        "revision": 1,
+        "released_at": "2024-02-25",
+        "item": "item-046",
+        "user": "editor-22",
+        "slate": "slate-27",
+        "propensity": 0.277
+      },
+      {
+        "id": "view-167",
+        "revision": 1,
+        "released_at": "2024-02-25",
+        "item": "item-060",
+        "user": "editor-23",
+        "slate": "slate-27",
+        "propensity": 0.41
+      },
+      {
+        "id": "view-168",
+        "revision": 1,
+        "released_at": "2024-02-26",
+        "item": "item-048",
+        "user": "editor-00",
+        "slate": "slate-28",
+        "propensity": 0.495
+      },
+      {
+        "id": "view-169",
+        "revision": 1,
+        "released_at": "2024-02-26",
+        "item": "item-009",
+        "user": "editor-01",
+        "slate": "slate-28",
+        "propensity": 0.22
+      },
+      {
+        "id": "view-170",
+        "revision": 1,
+        "released_at": "2024-02-26",
+        "item": "item-061",
+        "user": "editor-02",
+        "slate": "slate-28",
+        "propensity": 0.566
+      },
+      {
+        "id": "view-171",
+        "revision": 1,
+        "released_at": "2024-02-27",
+        "item": "item-052",
+        "user": "editor-03",
+        "slate": "slate-28",
+        "propensity": 0.497
+      },
+      {
+        "id": "view-172",
+        "revision": 1,
+        "released_at": "2024-02-27",
+        "item": "item-001",
+        "user": "editor-04",
+        "slate": "slate-28",
+        "propensity": 0.222
+      },
+      {
+        "id": "view-173",
+        "revision": 1,
+        "released_at": "2024-02-27",
+        "item": "item-032",
+        "user": "editor-05",
+        "slate": "slate-28",
+        "propensity": 0.31
+      },
+      {
+        "id": "view-174",
+        "revision": 1,
+        "released_at": "2024-02-28",
+        "item": "item-055",
+        "user": "editor-06",
+        "slate": "slate-29",
+        "propensity": 0.228
+      },
+      {
+        "id": "view-175",
+        "revision": 1,
+        "released_at": "2024-02-28",
+        "item": "item-050",
+        "user": "editor-07",
+        "slate": "slate-29",
+        "propensity": 0.421
+      },
+      {
+        "id": "view-176",
+        "revision": 1,
+        "released_at": "2024-02-28",
+        "item": "item-050",
+        "user": "editor-08",
+        "slate": "slate-29",
+        "propensity": 0.262
+      },
+      {
+        "id": "view-177",
+        "revision": 1,
+        "released_at": "2024-02-29",
+        "item": "item-058",
+        "user": "editor-09",
+        "slate": "slate-29",
+        "propensity": 0.154
+      },
+      {
+        "id": "view-178",
+        "revision": 1,
+        "released_at": "2024-02-29",
+        "item": "item-057",
+        "user": "editor-10",
+        "slate": "slate-29",
+        "propensity": 0.315
+      },
+      {
+        "id": "view-179",
+        "revision": 1,
+        "released_at": "2024-02-29",
+        "item": "item-011",
+        "user": "editor-11",
+        "slate": "slate-29",
+        "propensity": 0.511
+      },
+      {
+        "id": "view-180",
+        "revision": 1,
+        "released_at": "2024-03-01",
+        "item": "item-048",
+        "user": "editor-12",
+        "slate": "slate-30",
+        "propensity": 0.579
+      },
+      {
+        "id": "view-181",
+        "revision": 1,
+        "released_at": "2024-03-01",
+        "item": "item-035",
+        "user": "editor-13",
+        "slate": "slate-30",
+        "propensity": 0.552
+      },
+      {
+        "id": "view-182",
+        "revision": 1,
+        "released_at": "2024-03-01",
+        "item": "item-009",
+        "user": "editor-14",
+        "slate": "slate-30",
+        "propensity": 0.165
+      },
+      {
+        "id": "view-183",
+        "revision": 1,
+        "released_at": "2024-03-02",
+        "item": "item-041",
+        "user": "editor-15",
+        "slate": "slate-30",
+        "propensity": 0.244
+      },
+      {
+        "id": "view-184",
+        "revision": 1,
+        "released_at": "2024-03-02",
+        "item": "item-060",
+        "user": "editor-16",
+        "slate": "slate-30",
+        "propensity": 0.251
+      },
+      {
+        "id": "view-185",
+        "revision": 1,
+        "released_at": "2024-03-02",
+        "item": "item-020",
+        "user": "editor-17",
+        "slate": "slate-30",
+        "propensity": 0.357
+      },
+      {
+        "id": "view-186",
+        "revision": 1,
+        "released_at": "2024-03-03",
+        "item": "item-061",
+        "user": "editor-18",
+        "slate": "slate-31",
+        "propensity": 0.311
+      },
+      {
+        "id": "view-187",
+        "revision": 1,
+        "released_at": "2024-03-03",
+        "item": "item-027",
+        "user": "editor-19",
+        "slate": "slate-31",
+        "propensity": 0.357
+      },
+      {
+        "id": "view-188",
+        "revision": 1,
+        "released_at": "2024-03-03",
+        "item": "item-033",
+        "user": "editor-20",
+        "slate": "slate-31",
+        "propensity": 0.108
+      },
+      {
+        "id": "view-189",
+        "revision": 1,
+        "released_at": "2024-03-04",
+        "item": "item-061",
+        "user": "editor-21",
+        "slate": "slate-31",
+        "propensity": 0.209
+      },
+      {
+        "id": "view-190",
+        "revision": 1,
+        "released_at": "2024-03-04",
+        "item": "item-013",
+        "user": "editor-22",
+        "slate": "slate-31",
+        "propensity": 0.285
+      },
+      {
+        "id": "view-191",
+        "revision": 1,
+        "released_at": "2024-03-04",
+        "item": "item-057",
+        "user": "editor-23",
+        "slate": "slate-31",
+        "propensity": 0.318
+      },
+      {
+        "id": "view-192",
+        "revision": 1,
+        "released_at": "2024-03-05",
+        "item": "item-024",
+        "user": "editor-00",
+        "slate": "slate-32",
+        "propensity": 0.56
+      },
+      {
+        "id": "view-193",
+        "revision": 1,
+        "released_at": "2024-03-05",
+        "item": "item-001",
+        "user": "editor-01",
+        "slate": "slate-32",
+        "propensity": 0.368
+      },
+      {
+        "id": "view-194",
+        "revision": 1,
+        "released_at": "2024-03-05",
+        "item": "item-048",
+        "user": "editor-02",
+        "slate": "slate-32",
+        "propensity": 0.344
+      },
+      {
+        "id": "view-195",
+        "revision": 1,
+        "released_at": "2024-03-06",
+        "item": "item-018",
+        "user": "editor-03",
+        "slate": "slate-32",
+        "propensity": 0.138
+      },
+      {
+        "id": "view-196",
+        "revision": 1,
+        "released_at": "2024-03-06",
+        "item": "item-012",
+        "user": "editor-04",
+        "slate": "slate-32",
+        "propensity": 0.352
+      },
+      {
+        "id": "view-197",
+        "revision": 1,
+        "released_at": "2024-03-06",
+        "item": "item-039",
+        "user": "editor-05",
+        "slate": "slate-32",
+        "propensity": 0.43
+      },
+      {
+        "id": "view-198",
+        "revision": 1,
+        "released_at": "2024-03-07",
+        "item": "item-019",
+        "user": "editor-06",
+        "slate": "slate-33",
+        "propensity": 0.438
+      },
+      {
+        "id": "view-199",
+        "revision": 1,
+        "released_at": "2024-03-07",
+        "item": "item-001",
+        "user": "editor-07",
+        "slate": "slate-33",
+        "propensity": 0.406
+      },
+      {
+        "id": "view-200",
+        "revision": 1,
+        "released_at": "2024-03-07",
+        "item": "item-043",
+        "user": "editor-08",
+        "slate": "slate-33",
+        "propensity": 0.11
+      },
+      {
+        "id": "view-201",
+        "revision": 1,
+        "released_at": "2024-03-08",
+        "item": "item-015",
+        "user": "editor-09",
+        "slate": "slate-33",
+        "propensity": 0.257
+      },
+      {
+        "id": "view-202",
+        "revision": 1,
+        "released_at": "2024-03-08",
+        "item": "item-038",
+        "user": "editor-10",
+        "slate": "slate-33",
+        "propensity": 0.443
+      },
+      {
+        "id": "view-203",
+        "revision": 1,
+        "released_at": "2024-03-08",
+        "item": "item-040",
+        "user": "editor-11",
+        "slate": "slate-33",
+        "propensity": 0.385
+      },
+      {
+        "id": "view-204",
+        "revision": 1,
+        "released_at": "2024-03-09",
+        "item": "item-016",
+        "user": "editor-12",
+        "slate": "slate-34",
+        "propensity": 0.242
+      },
+      {
+        "id": "view-205",
+        "revision": 1,
+        "released_at": "2024-03-09",
+        "item": "item-018",
+        "user": "editor-13",
+        "slate": "slate-34",
+        "propensity": 0.597
+      },
+      {
+        "id": "view-206",
+        "revision": 1,
+        "released_at": "2024-03-09",
+        "item": "item-052",
+        "user": "editor-14",
+        "slate": "slate-34",
+        "propensity": 0.532
+      },
+      {
+        "id": "view-207",
+        "revision": 1,
+        "released_at": "2024-03-10",
+        "item": "item-054",
+        "user": "editor-15",
+        "slate": "slate-34",
+        "propensity": 0.496
+      },
+      {
+        "id": "view-208",
+        "revision": 1,
+        "released_at": "2024-03-10",
+        "item": "item-008",
+        "user": "editor-16",
+        "slate": "slate-34",
+        "propensity": 0.403
+      },
+      {
+        "id": "view-209",
+        "revision": 1,
+        "released_at": "2024-03-10",
+        "item": "item-058",
+        "user": "editor-17",
+        "slate": "slate-34",
+        "propensity": 0.212
+      },
+      {
+        "id": "view-210",
+        "revision": 1,
+        "released_at": "2024-03-11",
+        "item": "item-019",
+        "user": "editor-18",
+        "slate": "slate-35",
+        "propensity": 0.203
+      },
+      {
+        "id": "view-211",
+        "revision": 1,
+        "released_at": "2024-03-11",
+        "item": "item-053",
+        "user": "editor-19",
+        "slate": "slate-35",
+        "propensity": 0.235
+      },
+      {
+        "id": "view-212",
+        "revision": 1,
+        "released_at": "2024-03-11",
+        "item": "item-035",
+        "user": "editor-20",
+        "slate": "slate-35",
+        "propensity": 0.51
+      },
+      {
+        "id": "view-213",
+        "revision": 1,
+        "released_at": "2024-03-12",
+        "item": "item-062",
+        "user": "editor-21",
+        "slate": "slate-35",
+        "propensity": 0.456
+      },
+      {
+        "id": "view-214",
+        "revision": 1,
+        "released_at": "2024-03-12",
+        "item": "item-021",
+        "user": "editor-22",
+        "slate": "slate-35",
+        "propensity": 0.4
+      },
+      {
+        "id": "view-215",
+        "revision": 1,
+        "released_at": "2024-03-12",
+        "item": "item-010",
+        "user": "editor-23",
+        "slate": "slate-35",
+        "propensity": 0.381
+      },
+      {
+        "id": "view-216",
+        "revision": 1,
+        "released_at": "2024-03-13",
+        "item": "item-030",
+        "user": "editor-00",
+        "slate": "slate-36",
+        "propensity": 0.448
+      },
+      {
+        "id": "view-217",
+        "revision": 1,
+        "released_at": "2024-03-13",
+        "item": "item-015",
+        "user": "editor-01",
+        "slate": "slate-36",
+        "propensity": 0.434
+      },
+      {
+        "id": "view-218",
+        "revision": 1,
+        "released_at": "2024-03-13",
+        "item": "item-045",
+        "user": "editor-02",
+        "slate": "slate-36",
+        "propensity": 0.528
+      },
+      {
+        "id": "view-219",
+        "revision": 1,
+        "released_at": "2024-03-14",
+        "item": "item-037",
+        "user": "editor-03",
+        "slate": "slate-36",
+        "propensity": 0.156
+      },
+      {
+        "id": "view-220",
+        "revision": 1,
+        "released_at": "2024-03-14",
+        "item": "item-042",
+        "user": "editor-04",
+        "slate": "slate-36",
+        "propensity": 0.237
+      },
+      {
+        "id": "view-221",
+        "revision": 1,
+        "released_at": "2024-03-14",
+        "item": "item-052",
+        "user": "editor-05",
+        "slate": "slate-36",
+        "propensity": 0.565
+      },
+      {
+        "id": "view-222",
+        "revision": 1,
+        "released_at": "2024-03-15",
+        "item": "item-054",
+        "user": "editor-06",
+        "slate": "slate-37",
+        "propensity": 0.408
+      },
+      {
+        "id": "view-223",
+        "revision": 1,
+        "released_at": "2024-03-15",
+        "item": "item-005",
+        "user": "editor-07",
+        "slate": "slate-37",
+        "propensity": 0.132
+      },
+      {
+        "id": "view-224",
+        "revision": 1,
+        "released_at": "2024-03-15",
+        "item": "item-025",
+        "user": "editor-08",
+        "slate": "slate-37",
+        "propensity": 0.124
+      },
+      {
+        "id": "view-225",
+        "revision": 1,
+        "released_at": "2024-03-16",
+        "item": "item-041",
+        "user": "editor-09",
+        "slate": "slate-37",
+        "propensity": 0.189
+      },
+      {
+        "id": "view-226",
+        "revision": 1,
+        "released_at": "2024-03-16",
+        "item": "item-014",
+        "user": "editor-10",
+        "slate": "slate-37",
+        "propensity": 0.463
+      },
+      {
+        "id": "view-227",
+        "revision": 1,
+        "released_at": "2024-03-16",
+        "item": "item-047",
+        "user": "editor-11",
+        "slate": "slate-37",
+        "propensity": 0.189
+      },
+      {
+        "id": "view-228",
+        "revision": 1,
+        "released_at": "2024-03-17",
+        "item": "item-010",
+        "user": "editor-12",
+        "slate": "slate-38",
+        "propensity": 0.593
+      },
+      {
+        "id": "view-229",
+        "revision": 1,
+        "released_at": "2024-03-17",
+        "item": "item-043",
+        "user": "editor-13",
+        "slate": "slate-38",
+        "propensity": 0.287
+      },
+      {
+        "id": "view-230",
+        "revision": 1,
+        "released_at": "2024-03-17",
+        "item": "item-005",
+        "user": "editor-14",
+        "slate": "slate-38",
+        "propensity": 0.323
+      },
+      {
+        "id": "view-231",
+        "revision": 1,
+        "released_at": "2024-03-18",
+        "item": "item-013",
+        "user": "editor-15",
+        "slate": "slate-38",
+        "propensity": 0.537
+      },
+      {
+        "id": "view-232",
+        "revision": 1,
+        "released_at": "2024-03-18",
+        "item": "item-019",
+        "user": "editor-16",
+        "slate": "slate-38",
+        "propensity": 0.59
+      },
+      {
+        "id": "view-233",
+        "revision": 1,
+        "released_at": "2024-03-18",
+        "item": "item-037",
+        "user": "editor-17",
+        "slate": "slate-38",
+        "propensity": 0.318
+      },
+      {
+        "id": "view-234",
+        "revision": 1,
+        "released_at": "2024-03-19",
+        "item": "item-029",
+        "user": "editor-18",
+        "slate": "slate-39",
+        "propensity": 0.528
+      },
+      {
+        "id": "view-235",
+        "revision": 1,
+        "released_at": "2024-03-19",
+        "item": "item-034",
+        "user": "editor-19",
+        "slate": "slate-39",
+        "propensity": 0.105
+      },
+      {
+        "id": "view-236",
+        "revision": 1,
+        "released_at": "2024-03-19",
+        "item": "item-007",
+        "user": "editor-20",
+        "slate": "slate-39",
+        "propensity": 0.26
+      },
+      {
+        "id": "view-237",
+        "revision": 1,
+        "released_at": "2024-03-20",
+        "item": "item-030",
+        "user": "editor-21",
+        "slate": "slate-39",
+        "propensity": 0.139
+      },
+      {
+        "id": "view-238",
+        "revision": 1,
+        "released_at": "2024-03-20",
+        "item": "item-026",
+        "user": "editor-22",
+        "slate": "slate-39",
+        "propensity": 0.327
+      },
+      {
+        "id": "view-239",
+        "revision": 1,
+        "released_at": "2024-03-20",
+        "item": "item-021",
+        "user": "editor-23",
+        "slate": "slate-39",
+        "propensity": 0.101
+      },
+      {
+        "id": "view-240",
+        "revision": 1,
+        "released_at": "2024-03-21",
+        "item": "item-012",
+        "user": "editor-00",
+        "slate": "slate-40",
+        "propensity": 0.545
+      },
+      {
+        "id": "view-241",
+        "revision": 1,
+        "released_at": "2024-03-21",
+        "item": "item-058",
+        "user": "editor-01",
+        "slate": "slate-40",
+        "propensity": 0.413
+      },
+      {
+        "id": "view-242",
+        "revision": 1,
+        "released_at": "2024-03-21",
+        "item": "item-001",
+        "user": "editor-02",
+        "slate": "slate-40",
+        "propensity": 0.466
+      },
+      {
+        "id": "view-243",
+        "revision": 1,
+        "released_at": "2024-03-22",
+        "item": "item-003",
+        "user": "editor-03",
+        "slate": "slate-40",
+        "propensity": 0.588
+      },
+      {
+        "id": "view-244",
+        "revision": 1,
+        "released_at": "2024-03-22",
+        "item": "item-031",
+        "user": "editor-04",
+        "slate": "slate-40",
+        "propensity": 0.382
+      },
+      {
+        "id": "view-245",
+        "revision": 1,
+        "released_at": "2024-03-22",
+        "item": "item-041",
+        "user": "editor-05",
+        "slate": "slate-40",
+        "propensity": 0.321
+      },
+      {
+        "id": "view-246",
+        "revision": 1,
+        "released_at": "2024-03-23",
+        "item": "item-024",
+        "user": "editor-06",
+        "slate": "slate-41",
+        "propensity": 0.144
+      },
+      {
+        "id": "view-247",
+        "revision": 1,
+        "released_at": "2024-03-23",
+        "item": "item-014",
+        "user": "editor-07",
+        "slate": "slate-41",
+        "propensity": 0.299
+      },
+      {
+        "id": "view-248",
+        "revision": 1,
+        "released_at": "2024-03-23",
+        "item": "item-046",
+        "user": "editor-08",
+        "slate": "slate-41",
+        "propensity": 0.388
+      },
+      {
+        "id": "view-249",
+        "revision": 1,
+        "released_at": "2024-03-24",
+        "item": "item-010",
+        "user": "editor-09",
+        "slate": "slate-41",
+        "propensity": 0.29
+      },
+      {
+        "id": "view-250",
+        "revision": 1,
+        "released_at": "2024-03-24",
+        "item": "item-007",
+        "user": "editor-10",
+        "slate": "slate-41",
+        "propensity": 0.565
+      },
+      {
+        "id": "view-251",
+        "revision": 1,
+        "released_at": "2024-03-24",
+        "item": "item-014",
+        "user": "editor-11",
+        "slate": "slate-41",
+        "propensity": 0.222
+      },
+      {
+        "id": "view-252",
+        "revision": 1,
+        "released_at": "2024-03-25",
+        "item": "item-030",
+        "user": "editor-12",
+        "slate": "slate-42",
+        "propensity": 0.267
+      },
+      {
+        "id": "view-253",
+        "revision": 1,
+        "released_at": "2024-03-25",
+        "item": "item-051",
+        "user": "editor-13",
+        "slate": "slate-42",
+        "propensity": 0.276
+      },
+      {
+        "id": "view-254",
+        "revision": 1,
+        "released_at": "2024-03-25",
+        "item": "item-023",
+        "user": "editor-14",
+        "slate": "slate-42",
+        "propensity": 0.272
+      },
+      {
+        "id": "view-255",
+        "revision": 1,
+        "released_at": "2024-03-26",
+        "item": "item-029",
+        "user": "editor-15",
+        "slate": "slate-42",
+        "propensity": 0.481
+      },
+      {
+        "id": "view-256",
+        "revision": 1,
+        "released_at": "2024-03-26",
+        "item": "item-030",
+        "user": "editor-16",
+        "slate": "slate-42",
+        "propensity": 0.162
+      },
+      {
+        "id": "view-257",
+        "revision": 1,
+        "released_at": "2024-03-26",
+        "item": "item-057",
+        "user": "editor-17",
+        "slate": "slate-42",
+        "propensity": 0.22
+      },
+      {
+        "id": "view-258",
+        "revision": 1,
+        "released_at": "2024-03-27",
+        "item": "item-015",
+        "user": "editor-18",
+        "slate": "slate-43",
+        "propensity": 0.327
+      },
+      {
+        "id": "view-259",
+        "revision": 1,
+        "released_at": "2024-03-27",
+        "item": "item-009",
+        "user": "editor-19",
+        "slate": "slate-43",
+        "propensity": 0.184
+      },
+      {
+        "id": "view-260",
+        "revision": 1,
+        "released_at": "2024-03-27",
+        "item": "item-044",
+        "user": "editor-20",
+        "slate": "slate-43",
+        "propensity": 0.322
+      },
+      {
+        "id": "view-261",
+        "revision": 1,
+        "released_at": "2024-03-28",
+        "item": "item-009",
+        "user": "editor-21",
+        "slate": "slate-43",
+        "propensity": 0.599
+      },
+      {
+        "id": "view-262",
+        "revision": 1,
+        "released_at": "2024-03-28",
+        "item": "item-063",
+        "user": "editor-22",
+        "slate": "slate-43",
+        "propensity": 0.33
+      },
+      {
+        "id": "view-263",
+        "revision": 1,
+        "released_at": "2024-03-28",
+        "item": "item-049",
+        "user": "editor-23",
+        "slate": "slate-43",
+        "propensity": 0.293
+      },
+      {
+        "id": "view-264",
+        "revision": 1,
+        "released_at": "2024-03-29",
+        "item": "item-028",
+        "user": "editor-00",
+        "slate": "slate-44",
+        "propensity": 0.188
+      },
+      {
+        "id": "view-265",
+        "revision": 1,
+        "released_at": "2024-03-29",
+        "item": "item-000",
+        "user": "editor-01",
+        "slate": "slate-44",
+        "propensity": 0.123
+      },
+      {
+        "id": "view-266",
+        "revision": 1,
+        "released_at": "2024-03-29",
+        "item": "item-037",
+        "user": "editor-02",
+        "slate": "slate-44",
+        "propensity": 0.414
+      },
+      {
+        "id": "view-267",
+        "revision": 1,
+        "released_at": "2024-03-30",
+        "item": "item-050",
+        "user": "editor-03",
+        "slate": "slate-44",
+        "propensity": 0.481
+      },
+      {
+        "id": "view-268",
+        "revision": 1,
+        "released_at": "2024-03-30",
+        "item": "item-008",
+        "user": "editor-04",
+        "slate": "slate-44",
+        "propensity": 0.198
+      },
+      {
+        "id": "view-269",
+        "revision": 1,
+        "released_at": "2024-03-30",
+        "item": "item-016",
+        "user": "editor-05",
+        "slate": "slate-44",
+        "propensity": 0.254
+      },
+      {
+        "id": "view-270",
+        "revision": 1,
+        "released_at": "2024-03-31",
+        "item": "item-041",
+        "user": "editor-06",
+        "slate": "slate-45",
+        "propensity": 0.455
+      },
+      {
+        "id": "view-271",
+        "revision": 1,
+        "released_at": "2024-03-31",
+        "item": "item-036",
+        "user": "editor-07",
+        "slate": "slate-45",
+        "propensity": 0.284
+      },
+      {
+        "id": "view-272",
+        "revision": 1,
+        "released_at": "2024-03-31",
+        "item": "item-003",
+        "user": "editor-08",
+        "slate": "slate-45",
+        "propensity": 0.5
+      },
+      {
+        "id": "view-273",
+        "revision": 1,
+        "released_at": "2024-04-01",
+        "item": "item-028",
+        "user": "editor-09",
+        "slate": "slate-45",
+        "propensity": 0.198
+      },
+      {
+        "id": "view-274",
+        "revision": 1,
+        "released_at": "2024-04-01",
+        "item": "item-039",
+        "user": "editor-10",
+        "slate": "slate-45",
+        "propensity": 0.583
+      },
+      {
+        "id": "view-275",
+        "revision": 1,
+        "released_at": "2024-04-01",
+        "item": "item-002",
+        "user": "editor-11",
+        "slate": "slate-45",
+        "propensity": 0.289
+      },
+      {
+        "id": "view-276",
+        "revision": 1,
+        "released_at": "2024-04-02",
+        "item": "item-059",
+        "user": "editor-12",
+        "slate": "slate-46",
+        "propensity": 0.375
+      },
+      {
+        "id": "view-277",
+        "revision": 1,
+        "released_at": "2024-04-02",
+        "item": "item-032",
+        "user": "editor-13",
+        "slate": "slate-46",
+        "propensity": 0.513
+      },
+      {
+        "id": "view-278",
+        "revision": 1,
+        "released_at": "2024-04-02",
+        "item": "item-016",
+        "user": "editor-14",
+        "slate": "slate-46",
+        "propensity": 0.132
+      },
+      {
+        "id": "view-279",
+        "revision": 1,
+        "released_at": "2024-04-03",
+        "item": "item-031",
+        "user": "editor-15",
+        "slate": "slate-46",
+        "propensity": 0.199
+      },
+      {
+        "id": "view-280",
+        "revision": 1,
+        "released_at": "2024-04-03",
+        "item": "item-030",
+        "user": "editor-16",
+        "slate": "slate-46",
+        "propensity": 0.132
+      },
+      {
+        "id": "view-281",
+        "revision": 1,
+        "released_at": "2024-04-03",
+        "item": "item-048",
+        "user": "editor-17",
+        "slate": "slate-46",
+        "propensity": 0.205
+      },
+      {
+        "id": "view-282",
+        "revision": 1,
+        "released_at": "2024-04-04",
+        "item": "item-045",
+        "user": "editor-18",
+        "slate": "slate-47",
+        "propensity": 0.256
+      },
+      {
+        "id": "view-283",
+        "revision": 1,
+        "released_at": "2024-04-04",
+        "item": "item-025",
+        "user": "editor-19",
+        "slate": "slate-47",
+        "propensity": 0.333
+      },
+      {
+        "id": "view-284",
+        "revision": 1,
+        "released_at": "2024-04-04",
+        "item": "item-013",
+        "user": "editor-20",
+        "slate": "slate-47",
+        "propensity": 0.421
+      },
+      {
+        "id": "view-285",
+        "revision": 1,
+        "released_at": "2024-04-05",
+        "item": "item-018",
+        "user": "editor-21",
+        "slate": "slate-47",
+        "propensity": 0.189
+      },
+      {
+        "id": "view-286",
+        "revision": 1,
+        "released_at": "2024-04-05",
+        "item": "item-029",
+        "user": "editor-22",
+        "slate": "slate-47",
+        "propensity": 0.102
+      },
+      {
+        "id": "view-287",
+        "revision": 1,
+        "released_at": "2024-04-05",
+        "item": "item-050",
+        "user": "editor-23",
+        "slate": "slate-47",
+        "propensity": 0.163
+      },
+      {
+        "id": "view-288",
+        "revision": 1,
+        "released_at": "2024-04-06",
+        "item": "item-052",
+        "user": "editor-00",
+        "slate": "slate-48",
+        "propensity": 0.366
+      },
+      {
+        "id": "view-289",
+        "revision": 1,
+        "released_at": "2024-04-06",
+        "item": "item-027",
+        "user": "editor-01",
+        "slate": "slate-48",
+        "propensity": 0.134
+      },
+      {
+        "id": "view-290",
+        "revision": 1,
+        "released_at": "2024-04-06",
+        "item": "item-018",
+        "user": "editor-02",
+        "slate": "slate-48",
+        "propensity": 0.553
+      },
+      {
+        "id": "view-291",
+        "revision": 1,
+        "released_at": "2024-04-07",
+        "item": "item-019",
+        "user": "editor-03",
+        "slate": "slate-48",
+        "propensity": 0.439
+      },
+      {
+        "id": "view-292",
+        "revision": 1,
+        "released_at": "2024-04-07",
+        "item": "item-059",
+        "user": "editor-04",
+        "slate": "slate-48",
+        "propensity": 0.444
+      },
+      {
+        "id": "view-293",
+        "revision": 1,
+        "released_at": "2024-04-07",
+        "item": "item-027",
+        "user": "editor-05",
+        "slate": "slate-48",
+        "propensity": 0.196
+      },
+      {
+        "id": "view-294",
+        "revision": 1,
+        "released_at": "2024-04-08",
+        "item": "item-009",
+        "user": "editor-06",
+        "slate": "slate-49",
+        "propensity": 0.478
+      },
+      {
+        "id": "view-295",
+        "revision": 1,
+        "released_at": "2024-04-08",
+        "item": "item-014",
+        "user": "editor-07",
+        "slate": "slate-49",
+        "propensity": 0.578
+      },
+      {
+        "id": "view-296",
+        "revision": 1,
+        "released_at": "2024-04-08",
+        "item": "item-023",
+        "user": "editor-08",
+        "slate": "slate-49",
+        "propensity": 0.136
+      },
+      {
+        "id": "view-297",
+        "revision": 1,
+        "released_at": "2024-04-09",
+        "item": "item-015",
+        "user": "editor-09",
+        "slate": "slate-49",
+        "propensity": 0.353
+      },
+      {
+        "id": "view-298",
+        "revision": 1,
+        "released_at": "2024-04-09",
+        "item": "item-019",
+        "user": "editor-10",
+        "slate": "slate-49",
+        "propensity": 0.281
+      },
+      {
+        "id": "view-299",
+        "revision": 1,
+        "released_at": "2024-04-09",
+        "item": "item-044",
+        "user": "editor-11",
+        "slate": "slate-49",
+        "propensity": 0.269
+      },
+      {
+        "id": "view-300",
+        "revision": 1,
+        "released_at": "2024-04-10",
+        "item": "item-016",
+        "user": "editor-12",
+        "slate": "slate-50",
+        "propensity": 0.574
+      },
+      {
+        "id": "view-301",
+        "revision": 1,
+        "released_at": "2024-04-10",
+        "item": "item-040",
+        "user": "editor-13",
+        "slate": "slate-50",
+        "propensity": 0.476
+      },
+      {
+        "id": "view-302",
+        "revision": 1,
+        "released_at": "2024-04-10",
+        "item": "item-029",
+        "user": "editor-14",
+        "slate": "slate-50",
+        "propensity": 0.277
+      },
+      {
+        "id": "view-303",
+        "revision": 1,
+        "released_at": "2024-04-11",
+        "item": "item-019",
+        "user": "editor-15",
+        "slate": "slate-50",
+        "propensity": 0.185
+      },
+      {
+        "id": "view-304",
+        "revision": 1,
+        "released_at": "2024-04-11",
+        "item": "item-042",
+        "user": "editor-16",
+        "slate": "slate-50",
+        "propensity": 0.548
+      },
+      {
+        "id": "view-305",
+        "revision": 1,
+        "released_at": "2024-04-11",
+        "item": "item-001",
+        "user": "editor-17",
+        "slate": "slate-50",
+        "propensity": 0.123
+      },
+      {
+        "id": "view-306",
+        "revision": 1,
+        "released_at": "2024-04-12",
+        "item": "item-036",
+        "user": "editor-18",
+        "slate": "slate-51",
+        "propensity": 0.212
+      },
+      {
+        "id": "view-307",
+        "revision": 1,
+        "released_at": "2024-04-12",
+        "item": "item-048",
+        "user": "editor-19",
+        "slate": "slate-51",
+        "propensity": 0.258
+      },
+      {
+        "id": "view-308",
+        "revision": 1,
+        "released_at": "2024-04-12",
+        "item": "item-058",
+        "user": "editor-20",
+        "slate": "slate-51",
+        "propensity": 0.312
+      },
+      {
+        "id": "view-309",
+        "revision": 1,
+        "released_at": "2024-04-13",
+        "item": "item-006",
+        "user": "editor-21",
+        "slate": "slate-51",
+        "propensity": 0.44
+      },
+      {
+        "id": "view-310",
+        "revision": 1,
+        "released_at": "2024-04-13",
+        "item": "item-039",
+        "user": "editor-22",
+        "slate": "slate-51",
+        "propensity": 0.403
+      },
+      {
+        "id": "view-311",
+        "revision": 1,
+        "released_at": "2024-04-13",
+        "item": "item-063",
+        "user": "editor-23",
+        "slate": "slate-51",
+        "propensity": 0.417
+      },
+      {
+        "id": "view-312",
+        "revision": 1,
+        "released_at": "2024-04-14",
+        "item": "item-054",
+        "user": "editor-00",
+        "slate": "slate-52",
+        "propensity": 0.523
+      },
+      {
+        "id": "view-313",
+        "revision": 1,
+        "released_at": "2024-04-14",
+        "item": "item-026",
+        "user": "editor-01",
+        "slate": "slate-52",
+        "propensity": 0.247
+      },
+      {
+        "id": "view-314",
+        "revision": 1,
+        "released_at": "2024-04-14",
+        "item": "item-008",
+        "user": "editor-02",
+        "slate": "slate-52",
+        "propensity": 0.542
+      },
+      {
+        "id": "view-315",
+        "revision": 1,
+        "released_at": "2024-04-15",
+        "item": "item-059",
+        "user": "editor-03",
+        "slate": "slate-52",
+        "propensity": 0.405
+      },
+      {
+        "id": "view-316",
+        "revision": 1,
+        "released_at": "2024-04-15",
+        "item": "item-061",
+        "user": "editor-04",
+        "slate": "slate-52",
+        "propensity": 0.547
+      },
+      {
+        "id": "view-317",
+        "revision": 1,
+        "released_at": "2024-04-15",
+        "item": "item-030",
+        "user": "editor-05",
+        "slate": "slate-52",
+        "propensity": 0.205
+      },
+      {
+        "id": "view-318",
+        "revision": 1,
+        "released_at": "2024-04-16",
+        "item": "item-040",
+        "user": "editor-06",
+        "slate": "slate-53",
+        "propensity": 0.568
+      },
+      {
+        "id": "view-319",
+        "revision": 1,
+        "released_at": "2024-04-16",
+        "item": "item-036",
+        "user": "editor-07",
+        "slate": "slate-53",
+        "propensity": 0.506
+      },
+      {
+        "id": "view-320",
+        "revision": 1,
+        "released_at": "2024-04-16",
+        "item": "item-046",
+        "user": "editor-08",
+        "slate": "slate-53",
+        "propensity": 0.134
+      },
+      {
+        "id": "view-321",
+        "revision": 1,
+        "released_at": "2024-04-17",
+        "item": "item-008",
+        "user": "editor-09",
+        "slate": "slate-53",
+        "propensity": 0.425
+      },
+      {
+        "id": "view-322",
+        "revision": 1,
+        "released_at": "2024-04-17",
+        "item": "item-033",
+        "user": "editor-10",
+        "slate": "slate-53",
+        "propensity": 0.169
+      },
+      {
+        "id": "view-323",
+        "revision": 1,
+        "released_at": "2024-04-17",
+        "item": "item-051",
+        "user": "editor-11",
+        "slate": "slate-53",
+        "propensity": 0.472
+      },
+      {
+        "id": "view-324",
+        "revision": 1,
+        "released_at": "2024-04-18",
+        "item": "item-051",
+        "user": "editor-12",
+        "slate": "slate-54",
+        "propensity": 0.501
+      },
+      {
+        "id": "view-325",
+        "revision": 1,
+        "released_at": "2024-04-18",
+        "item": "item-005",
+        "user": "editor-13",
+        "slate": "slate-54",
+        "propensity": 0.356
+      },
+      {
+        "id": "view-326",
+        "revision": 1,
+        "released_at": "2024-04-18",
+        "item": "item-047",
+        "user": "editor-14",
+        "slate": "slate-54",
+        "propensity": 0.265
+      },
+      {
+        "id": "view-327",
+        "revision": 1,
+        "released_at": "2024-04-19",
+        "item": "item-003",
+        "user": "editor-15",
+        "slate": "slate-54",
+        "propensity": 0.491
+      },
+      {
+        "id": "view-328",
+        "revision": 1,
+        "released_at": "2024-04-19",
+        "item": "item-028",
+        "user": "editor-16",
+        "slate": "slate-54",
+        "propensity": 0.292
+      },
+      {
+        "id": "view-329",
+        "revision": 1,
+        "released_at": "2024-04-19",
+        "item": "item-060",
+        "user": "editor-17",
+        "slate": "slate-54",
+        "propensity": 0.295
+      },
+      {
+        "id": "view-330",
+        "revision": 1,
+        "released_at": "2024-04-20",
+        "item": "item-009",
+        "user": "editor-18",
+        "slate": "slate-55",
+        "propensity": 0.212
+      },
+      {
+        "id": "view-331",
+        "revision": 1,
+        "released_at": "2024-04-20",
+        "item": "item-016",
+        "user": "editor-19",
+        "slate": "slate-55",
+        "propensity": 0.438
+      },
+      {
+        "id": "view-332",
+        "revision": 1,
+        "released_at": "2024-04-20",
+        "item": "item-045",
+        "user": "editor-20",
+        "slate": "slate-55",
+        "propensity": 0.535
+      },
+      {
+        "id": "view-333",
+        "revision": 1,
+        "released_at": "2024-04-21",
+        "item": "item-005",
+        "user": "editor-21",
+        "slate": "slate-55",
+        "propensity": 0.583
+      },
+      {
+        "id": "view-334",
+        "revision": 1,
+        "released_at": "2024-04-21",
+        "item": "item-038",
+        "user": "editor-22",
+        "slate": "slate-55",
+        "propensity": 0.493
+      },
+      {
+        "id": "view-335",
+        "revision": 1,
+        "released_at": "2024-04-21",
+        "item": "item-062",
+        "user": "editor-23",
+        "slate": "slate-55",
+        "propensity": 0.102
+      },
+      {
+        "id": "view-336",
+        "revision": 1,
+        "released_at": "2024-04-22",
+        "item": "item-022",
+        "user": "editor-00",
+        "slate": "slate-56",
+        "propensity": 0.114
+      },
+      {
+        "id": "view-337",
+        "revision": 1,
+        "released_at": "2024-04-22",
+        "item": "item-038",
+        "user": "editor-01",
+        "slate": "slate-56",
+        "propensity": 0.437
+      },
+      {
+        "id": "view-338",
+        "revision": 1,
+        "released_at": "2024-04-22",
+        "item": "item-059",
+        "user": "editor-02",
+        "slate": "slate-56",
+        "propensity": 0.323
+      },
+      {
+        "id": "view-339",
+        "revision": 1,
+        "released_at": "2024-04-23",
+        "item": "item-031",
+        "user": "editor-03",
+        "slate": "slate-56",
+        "propensity": 0.212
+      },
+      {
+        "id": "view-340",
+        "revision": 1,
+        "released_at": "2024-04-23",
+        "item": "item-005",
+        "user": "editor-04",
+        "slate": "slate-56",
+        "propensity": 0.457
+      },
+      {
+        "id": "view-341",
+        "revision": 1,
+        "released_at": "2024-04-23",
+        "item": "item-022",
+        "user": "editor-05",
+        "slate": "slate-56",
+        "propensity": 0.169
+      },
+      {
+        "id": "view-342",
+        "revision": 1,
+        "released_at": "2024-04-24",
+        "item": "item-035",
+        "user": "editor-06",
+        "slate": "slate-57",
+        "propensity": 0.543
+      },
+      {
+        "id": "view-343",
+        "revision": 1,
+        "released_at": "2024-04-24",
+        "item": "item-013",
+        "user": "editor-07",
+        "slate": "slate-57",
+        "propensity": 0.592
+      },
+      {
+        "id": "view-344",
+        "revision": 1,
+        "released_at": "2024-04-24",
+        "item": "item-060",
+        "user": "editor-08",
+        "slate": "slate-57",
+        "propensity": 0.296
+      },
+      {
+        "id": "view-345",
+        "revision": 1,
+        "released_at": "2024-04-25",
+        "item": "item-016",
+        "user": "editor-09",
+        "slate": "slate-57",
+        "propensity": 0.399
+      },
+      {
+        "id": "view-346",
+        "revision": 1,
+        "released_at": "2024-04-25",
+        "item": "item-034",
+        "user": "editor-10",
+        "slate": "slate-57",
+        "propensity": 0.251
+      },
+      {
+        "id": "view-347",
+        "revision": 1,
+        "released_at": "2024-04-25",
+        "item": "item-006",
+        "user": "editor-11",
+        "slate": "slate-57",
+        "propensity": 0.319
+      },
+      {
+        "id": "view-348",
+        "revision": 1,
+        "released_at": "2024-04-26",
+        "item": "item-015",
+        "user": "editor-12",
+        "slate": "slate-58",
+        "propensity": 0.487
+      },
+      {
+        "id": "view-349",
+        "revision": 1,
+        "released_at": "2024-04-26",
+        "item": "item-039",
+        "user": "editor-13",
+        "slate": "slate-58",
+        "propensity": 0.35
+      },
+      {
+        "id": "view-350",
+        "revision": 1,
+        "released_at": "2024-04-26",
+        "item": "item-015",
+        "user": "editor-14",
+        "slate": "slate-58",
+        "propensity": 0.326
+      },
+      {
+        "id": "view-351",
+        "revision": 1,
+        "released_at": "2024-04-27",
+        "item": "item-062",
+        "user": "editor-15",
+        "slate": "slate-58",
+        "propensity": 0.346
+      },
+      {
+        "id": "view-352",
+        "revision": 1,
+        "released_at": "2024-04-27",
+        "item": "item-052",
+        "user": "editor-16",
+        "slate": "slate-58",
+        "propensity": 0.137
+      },
+      {
+        "id": "view-353",
+        "revision": 1,
+        "released_at": "2024-04-27",
+        "item": "item-001",
+        "user": "editor-17",
+        "slate": "slate-58",
+        "propensity": 0.361
+      },
+      {
+        "id": "view-354",
+        "revision": 1,
+        "released_at": "2024-04-28",
+        "item": "item-000",
+        "user": "editor-18",
+        "slate": "slate-59",
+        "propensity": 0.32
+      },
+      {
+        "id": "view-355",
+        "revision": 1,
+        "released_at": "2024-04-28",
+        "item": "item-057",
+        "user": "editor-19",
+        "slate": "slate-59",
+        "propensity": 0.496
+      },
+      {
+        "id": "view-356",
+        "revision": 1,
+        "released_at": "2024-04-28",
+        "item": "item-026",
+        "user": "editor-20",
+        "slate": "slate-59",
+        "propensity": 0.105
+      },
+      {
+        "id": "view-357",
+        "revision": 1,
+        "released_at": "2024-04-29",
+        "item": "item-016",
+        "user": "editor-21",
+        "slate": "slate-59",
+        "propensity": 0.13
+      },
+      {
+        "id": "view-358",
+        "revision": 1,
+        "released_at": "2024-04-29",
+        "item": "item-019",
+        "user": "editor-22",
+        "slate": "slate-59",
+        "propensity": 0.393
+      },
+      {
+        "id": "view-359",
+        "revision": 1,
+        "released_at": "2024-04-29",
+        "item": "item-033",
+        "user": "editor-23",
+        "slate": "slate-59",
+        "propensity": 0.161
+      },
+      {
+        "id": "view-360",
+        "revision": 1,
+        "released_at": "2024-04-30",
+        "item": "item-061",
+        "user": "editor-00",
+        "slate": "slate-60",
+        "propensity": 0.466
+      },
+      {
+        "id": "view-361",
+        "revision": 1,
+        "released_at": "2024-04-30",
+        "item": "item-029",
+        "user": "editor-01",
+        "slate": "slate-60",
+        "propensity": 0.346
+      },
+      {
+        "id": "view-362",
+        "revision": 1,
+        "released_at": "2024-04-30",
+        "item": "item-035",
+        "user": "editor-02",
+        "slate": "slate-60",
+        "propensity": 0.172
+      },
+      {
+        "id": "view-363",
+        "revision": 1,
+        "released_at": "2024-05-01",
+        "item": "item-038",
+        "user": "editor-03",
+        "slate": "slate-60",
+        "propensity": 0.202
+      },
+      {
+        "id": "view-364",
+        "revision": 1,
+        "released_at": "2024-05-01",
+        "item": "item-024",
+        "user": "editor-04",
+        "slate": "slate-60",
+        "propensity": 0.201
+      },
+      {
+        "id": "view-365",
+        "revision": 1,
+        "released_at": "2024-05-01",
+        "item": "item-054",
+        "user": "editor-05",
+        "slate": "slate-60",
+        "propensity": 0.452
+      },
+      {
+        "id": "view-366",
+        "revision": 1,
+        "released_at": "2024-05-02",
+        "item": "item-033",
+        "user": "editor-06",
+        "slate": "slate-61",
+        "propensity": 0.179
+      },
+      {
+        "id": "view-367",
+        "revision": 1,
+        "released_at": "2024-05-02",
+        "item": "item-016",
+        "user": "editor-07",
+        "slate": "slate-61",
+        "propensity": 0.367
+      },
+      {
+        "id": "view-368",
+        "revision": 1,
+        "released_at": "2024-05-02",
+        "item": "item-001",
+        "user": "editor-08",
+        "slate": "slate-61",
+        "propensity": 0.133
+      },
+      {
+        "id": "view-369",
+        "revision": 1,
+        "released_at": "2024-05-03",
+        "item": "item-051",
+        "user": "editor-09",
+        "slate": "slate-61",
+        "propensity": 0.194
+      },
+      {
+        "id": "view-370",
+        "revision": 1,
+        "released_at": "2024-05-03",
+        "item": "item-005",
+        "user": "editor-10",
+        "slate": "slate-61",
+        "propensity": 0.4
+      },
+      {
+        "id": "view-371",
+        "revision": 1,
+        "released_at": "2024-05-03",
+        "item": "item-018",
+        "user": "editor-11",
+        "slate": "slate-61",
+        "propensity": 0.162
+      },
+      {
+        "id": "view-372",
+        "revision": 1,
+        "released_at": "2024-05-04",
+        "item": "item-050",
+        "user": "editor-12",
+        "slate": "slate-62",
+        "propensity": 0.338
+      },
+      {
+        "id": "view-373",
+        "revision": 1,
+        "released_at": "2024-05-04",
+        "item": "item-029",
+        "user": "editor-13",
+        "slate": "slate-62",
+        "propensity": 0.133
+      },
+      {
+        "id": "view-374",
+        "revision": 1,
+        "released_at": "2024-05-04",
+        "item": "item-011",
+        "user": "editor-14",
+        "slate": "slate-62",
+        "propensity": 0.305
+      },
+      {
+        "id": "view-375",
+        "revision": 1,
+        "released_at": "2024-05-05",
+        "item": "item-058",
+        "user": "editor-15",
+        "slate": "slate-62",
+        "propensity": 0.503
+      },
+      {
+        "id": "view-376",
+        "revision": 1,
+        "released_at": "2024-05-05",
+        "item": "item-018",
+        "user": "editor-16",
+        "slate": "slate-62",
+        "propensity": 0.357
+      },
+      {
+        "id": "view-377",
+        "revision": 1,
+        "released_at": "2024-05-05",
+        "item": "item-023",
+        "user": "editor-17",
+        "slate": "slate-62",
+        "propensity": 0.475
+      },
+      {
+        "id": "view-378",
+        "revision": 1,
+        "released_at": "2024-05-06",
+        "item": "item-035",
+        "user": "editor-18",
+        "slate": "slate-63",
+        "propensity": 0.457
+      },
+      {
+        "id": "view-379",
+        "revision": 1,
+        "released_at": "2024-05-06",
+        "item": "item-015",
+        "user": "editor-19",
+        "slate": "slate-63",
+        "propensity": 0.525
+      },
+      {
+        "id": "view-380",
+        "revision": 1,
+        "released_at": "2024-05-06",
+        "item": "item-002",
+        "user": "editor-20",
+        "slate": "slate-63",
+        "propensity": 0.227
+      },
+      {
+        "id": "view-381",
+        "revision": 1,
+        "released_at": "2024-05-07",
+        "item": "item-025",
+        "user": "editor-21",
+        "slate": "slate-63",
+        "propensity": 0.495
+      },
+      {
+        "id": "view-382",
+        "revision": 1,
+        "released_at": "2024-05-07",
+        "item": "item-038",
+        "user": "editor-22",
+        "slate": "slate-63",
+        "propensity": 0.133
+      },
+      {
+        "id": "view-383",
+        "revision": 1,
+        "released_at": "2024-05-07",
+        "item": "item-047",
+        "user": "editor-23",
+        "slate": "slate-63",
+        "propensity": 0.232
+      },
+      {
+        "id": "view-384",
+        "revision": 1,
+        "released_at": "2024-05-08",
+        "item": "item-056",
+        "user": "editor-00",
+        "slate": "slate-64",
+        "propensity": 0.51
+      },
+      {
+        "id": "view-385",
+        "revision": 1,
+        "released_at": "2024-05-08",
+        "item": "item-026",
+        "user": "editor-01",
+        "slate": "slate-64",
+        "propensity": 0.248
+      },
+      {
+        "id": "view-386",
+        "revision": 1,
+        "released_at": "2024-05-08",
+        "item": "item-000",
+        "user": "editor-02",
+        "slate": "slate-64",
+        "propensity": 0.527
+      },
+      {
+        "id": "view-387",
+        "revision": 1,
+        "released_at": "2024-05-09",
+        "item": "item-006",
+        "user": "editor-03",
+        "slate": "slate-64",
+        "propensity": 0.351
+      },
+      {
+        "id": "view-388",
+        "revision": 1,
+        "released_at": "2024-05-09",
+        "item": "item-043",
+        "user": "editor-04",
+        "slate": "slate-64",
+        "propensity": 0.51
+      },
+      {
+        "id": "view-389",
+        "revision": 1,
+        "released_at": "2024-05-09",
+        "item": "item-040",
+        "user": "editor-05",
+        "slate": "slate-64",
+        "propensity": 0.434
+      },
+      {
+        "id": "view-390",
+        "revision": 1,
+        "released_at": "2024-05-10",
+        "item": "item-020",
+        "user": "editor-06",
+        "slate": "slate-65",
+        "propensity": 0.2
+      },
+      {
+        "id": "view-391",
+        "revision": 1,
+        "released_at": "2024-05-10",
+        "item": "item-003",
+        "user": "editor-07",
+        "slate": "slate-65",
+        "propensity": 0.161
+      },
+      {
+        "id": "view-392",
+        "revision": 1,
+        "released_at": "2024-05-10",
+        "item": "item-057",
+        "user": "editor-08",
+        "slate": "slate-65",
+        "propensity": 0.344
+      },
+      {
+        "id": "view-393",
+        "revision": 1,
+        "released_at": "2024-05-11",
+        "item": "item-012",
+        "user": "editor-09",
+        "slate": "slate-65",
+        "propensity": 0.175
+      },
+      {
+        "id": "view-394",
+        "revision": 1,
+        "released_at": "2024-05-11",
+        "item": "item-002",
+        "user": "editor-10",
+        "slate": "slate-65",
+        "propensity": 0.471
+      },
+      {
+        "id": "view-395",
+        "revision": 1,
+        "released_at": "2024-05-11",
+        "item": "item-027",
+        "user": "editor-11",
+        "slate": "slate-65",
+        "propensity": 0.525
+      },
+      {
+        "id": "view-396",
+        "revision": 1,
+        "released_at": "2024-05-12",
+        "item": "item-018",
+        "user": "editor-12",
+        "slate": "slate-66",
+        "propensity": 0.25
+      },
+      {
+        "id": "view-397",
+        "revision": 1,
+        "released_at": "2024-05-12",
+        "item": "item-027",
+        "user": "editor-13",
+        "slate": "slate-66",
+        "propensity": 0.142
+      },
+      {
+        "id": "view-398",
+        "revision": 1,
+        "released_at": "2024-05-12",
+        "item": "item-063",
+        "user": "editor-14",
+        "slate": "slate-66",
+        "propensity": 0.291
+      },
+      {
+        "id": "view-399",
+        "revision": 1,
+        "released_at": "2024-05-13",
+        "item": "item-001",
+        "user": "editor-15",
+        "slate": "slate-66",
+        "propensity": 0.225
+      },
+      {
+        "id": "view-400",
+        "revision": 1,
+        "released_at": "2024-05-13",
+        "item": "item-011",
+        "user": "editor-16",
+        "slate": "slate-66",
+        "propensity": 0.277
+      },
+      {
+        "id": "view-401",
+        "revision": 1,
+        "released_at": "2024-05-13",
+        "item": "item-044",
+        "user": "editor-17",
+        "slate": "slate-66",
+        "propensity": 0.137
+      },
+      {
+        "id": "view-402",
+        "revision": 1,
+        "released_at": "2024-05-14",
+        "item": "item-027",
+        "user": "editor-18",
+        "slate": "slate-67",
+        "propensity": 0.121
+      },
+      {
+        "id": "view-403",
+        "revision": 1,
+        "released_at": "2024-05-14",
+        "item": "item-056",
+        "user": "editor-19",
+        "slate": "slate-67",
+        "propensity": 0.183
+      },
+      {
+        "id": "view-404",
+        "revision": 1,
+        "released_at": "2024-05-14",
+        "item": "item-003",
+        "user": "editor-20",
+        "slate": "slate-67",
+        "propensity": 0.301
+      },
+      {
+        "id": "view-405",
+        "revision": 1,
+        "released_at": "2024-05-15",
+        "item": "item-045",
+        "user": "editor-21",
+        "slate": "slate-67",
+        "propensity": 0.116
+      },
+      {
+        "id": "view-406",
+        "revision": 1,
+        "released_at": "2024-05-15",
+        "item": "item-011",
+        "user": "editor-22",
+        "slate": "slate-67",
+        "propensity": 0.413
+      },
+      {
+        "id": "view-407",
+        "revision": 1,
+        "released_at": "2024-05-15",
+        "item": "item-046",
+        "user": "editor-23",
+        "slate": "slate-67",
+        "propensity": 0.215
+      },
+      {
+        "id": "view-408",
+        "revision": 1,
+        "released_at": "2024-05-16",
+        "item": "item-053",
+        "user": "editor-00",
+        "slate": "slate-68",
+        "propensity": 0.261
+      },
+      {
+        "id": "view-409",
+        "revision": 1,
+        "released_at": "2024-05-16",
+        "item": "item-038",
+        "user": "editor-01",
+        "slate": "slate-68",
+        "propensity": 0.208
+      },
+      {
+        "id": "view-410",
+        "revision": 1,
+        "released_at": "2024-05-16",
+        "item": "item-052",
+        "user": "editor-02",
+        "slate": "slate-68",
+        "propensity": 0.108
+      },
+      {
+        "id": "view-411",
+        "revision": 1,
+        "released_at": "2024-05-17",
+        "item": "item-052",
+        "user": "editor-03",
+        "slate": "slate-68",
+        "propensity": 0.129
+      },
+      {
+        "id": "view-412",
+        "revision": 1,
+        "released_at": "2024-05-17",
+        "item": "item-012",
+        "user": "editor-04",
+        "slate": "slate-68",
+        "propensity": 0.339
+      },
+      {
+        "id": "view-413",
+        "revision": 1,
+        "released_at": "2024-05-17",
+        "item": "item-028",
+        "user": "editor-05",
+        "slate": "slate-68",
+        "propensity": 0.159
+      },
+      {
+        "id": "view-414",
+        "revision": 1,
+        "released_at": "2024-05-18",
+        "item": "item-040",
+        "user": "editor-06",
+        "slate": "slate-69",
+        "propensity": 0.241
+      },
+      {
+        "id": "view-415",
+        "revision": 1,
+        "released_at": "2024-05-18",
+        "item": "item-015",
+        "user": "editor-07",
+        "slate": "slate-69",
+        "propensity": 0.243
+      },
+      {
+        "id": "view-416",
+        "revision": 1,
+        "released_at": "2024-05-18",
+        "item": "item-035",
+        "user": "editor-08",
+        "slate": "slate-69",
+        "propensity": 0.379
+      },
+      {
+        "id": "view-417",
+        "revision": 1,
+        "released_at": "2024-05-19",
+        "item": "item-002",
+        "user": "editor-09",
+        "slate": "slate-69",
+        "propensity": 0.327
+      },
+      {
+        "id": "view-418",
+        "revision": 1,
+        "released_at": "2024-05-19",
+        "item": "item-043",
+        "user": "editor-10",
+        "slate": "slate-69",
+        "propensity": 0.503
+      },
+      {
+        "id": "view-419",
+        "revision": 1,
+        "released_at": "2024-05-19",
+        "item": "item-018",
+        "user": "editor-11",
+        "slate": "slate-69",
+        "propensity": 0.557
+      },
+      {
+        "id": "view-420",
+        "revision": 1,
+        "released_at": "2024-05-20",
+        "item": "item-019",
+        "user": "editor-12",
+        "slate": "slate-70",
+        "propensity": 0.335
+      },
+      {
+        "id": "view-421",
+        "revision": 1,
+        "released_at": "2024-05-20",
+        "item": "item-005",
+        "user": "editor-13",
+        "slate": "slate-70",
+        "propensity": 0.306
+      },
+      {
+        "id": "view-422",
+        "revision": 1,
+        "released_at": "2024-05-20",
+        "item": "item-042",
+        "user": "editor-14",
+        "slate": "slate-70",
+        "propensity": 0.289
+      },
+      {
+        "id": "view-423",
+        "revision": 1,
+        "released_at": "2024-05-21",
+        "item": "item-036",
+        "user": "editor-15",
+        "slate": "slate-70",
+        "propensity": 0.398
+      },
+      {
+        "id": "view-424",
+        "revision": 1,
+        "released_at": "2024-05-21",
+        "item": "item-030",
+        "user": "editor-16",
+        "slate": "slate-70",
+        "propensity": 0.174
+      },
+      {
+        "id": "view-425",
+        "revision": 1,
+        "released_at": "2024-05-21",
+        "item": "item-039",
+        "user": "editor-17",
+        "slate": "slate-70",
+        "propensity": 0.274
+      },
+      {
+        "id": "view-426",
+        "revision": 1,
+        "released_at": "2024-05-22",
+        "item": "item-001",
+        "user": "editor-18",
+        "slate": "slate-71",
+        "propensity": 0.425
+      },
+      {
+        "id": "view-427",
+        "revision": 1,
+        "released_at": "2024-05-22",
+        "item": "item-025",
+        "user": "editor-19",
+        "slate": "slate-71",
+        "propensity": 0.168
+      },
+      {
+        "id": "view-428",
+        "revision": 1,
+        "released_at": "2024-05-22",
+        "item": "item-052",
+        "user": "editor-20",
+        "slate": "slate-71",
+        "propensity": 0.273
+      },
+      {
+        "id": "view-429",
+        "revision": 1,
+        "released_at": "2024-05-23",
+        "item": "item-061",
+        "user": "editor-21",
+        "slate": "slate-71",
+        "propensity": 0.295
+      },
+      {
+        "id": "view-430",
+        "revision": 1,
+        "released_at": "2024-05-23",
+        "item": "item-008",
+        "user": "editor-22",
+        "slate": "slate-71",
+        "propensity": 0.284
+      },
+      {
+        "id": "view-431",
+        "revision": 1,
+        "released_at": "2024-05-23",
+        "item": "item-031",
+        "user": "editor-23",
+        "slate": "slate-71",
+        "propensity": 0.586
+      },
+      {
+        "id": "view-432",
+        "revision": 1,
+        "released_at": "2024-05-24",
+        "item": "item-037",
+        "user": "editor-00",
+        "slate": "slate-72",
+        "propensity": 0.372
+      },
+      {
+        "id": "view-433",
+        "revision": 1,
+        "released_at": "2024-05-24",
+        "item": "item-002",
+        "user": "editor-01",
+        "slate": "slate-72",
+        "propensity": 0.125
+      },
+      {
+        "id": "view-434",
+        "revision": 1,
+        "released_at": "2024-05-24",
+        "item": "item-005",
+        "user": "editor-02",
+        "slate": "slate-72",
+        "propensity": 0.17
+      },
+      {
+        "id": "view-435",
+        "revision": 1,
+        "released_at": "2024-05-25",
+        "item": "item-045",
+        "user": "editor-03",
+        "slate": "slate-72",
+        "propensity": 0.103
+      },
+      {
+        "id": "view-436",
+        "revision": 1,
+        "released_at": "2024-05-25",
+        "item": "item-043",
+        "user": "editor-04",
+        "slate": "slate-72",
+        "propensity": 0.451
+      },
+      {
+        "id": "view-437",
+        "revision": 1,
+        "released_at": "2024-05-25",
+        "item": "item-010",
+        "user": "editor-05",
+        "slate": "slate-72",
+        "propensity": 0.417
+      },
+      {
+        "id": "view-438",
+        "revision": 1,
+        "released_at": "2024-05-26",
+        "item": "item-056",
+        "user": "editor-06",
+        "slate": "slate-73",
+        "propensity": 0.185
+      },
+      {
+        "id": "view-439",
+        "revision": 1,
+        "released_at": "2024-05-26",
+        "item": "item-057",
+        "user": "editor-07",
+        "slate": "slate-73",
+        "propensity": 0.132
+      },
+      {
+        "id": "view-440",
+        "revision": 1,
+        "released_at": "2024-05-26",
+        "item": "item-052",
+        "user": "editor-08",
+        "slate": "slate-73",
+        "propensity": 0.209
+      },
+      {
+        "id": "view-441",
+        "revision": 1,
+        "released_at": "2024-05-27",
+        "item": "item-034",
+        "user": "editor-09",
+        "slate": "slate-73",
+        "propensity": 0.366
+      },
+      {
+        "id": "view-442",
+        "revision": 1,
+        "released_at": "2024-05-27",
+        "item": "item-048",
+        "user": "editor-10",
+        "slate": "slate-73",
+        "propensity": 0.491
+      },
+      {
+        "id": "view-443",
+        "revision": 1,
+        "released_at": "2024-05-27",
+        "item": "item-027",
+        "user": "editor-11",
+        "slate": "slate-73",
+        "propensity": 0.537
+      },
+      {
+        "id": "view-444",
+        "revision": 1,
+        "released_at": "2024-05-28",
+        "item": "item-018",
+        "user": "editor-12",
+        "slate": "slate-74",
+        "propensity": 0.197
+      },
+      {
+        "id": "view-445",
+        "revision": 1,
+        "released_at": "2024-05-28",
+        "item": "item-028",
+        "user": "editor-13",
+        "slate": "slate-74",
+        "propensity": 0.227
+      },
+      {
+        "id": "view-446",
+        "revision": 1,
+        "released_at": "2024-05-28",
+        "item": "item-012",
+        "user": "editor-14",
+        "slate": "slate-74",
+        "propensity": 0.495
+      },
+      {
+        "id": "view-447",
+        "revision": 1,
+        "released_at": "2024-05-29",
+        "item": "item-045",
+        "user": "editor-15",
+        "slate": "slate-74",
+        "propensity": 0.335
+      },
+      {
+        "id": "view-448",
+        "revision": 1,
+        "released_at": "2024-05-29",
+        "item": "item-020",
+        "user": "editor-16",
+        "slate": "slate-74",
+        "propensity": 0.387
+      },
+      {
+        "id": "view-449",
+        "revision": 1,
+        "released_at": "2024-05-29",
+        "item": "item-043",
+        "user": "editor-17",
+        "slate": "slate-74",
+        "propensity": 0.315
+      },
+      {
+        "id": "view-450",
+        "revision": 1,
+        "released_at": "2024-05-30",
+        "item": "item-025",
+        "user": "editor-18",
+        "slate": "slate-75",
+        "propensity": 0.254
+      },
+      {
+        "id": "view-451",
+        "revision": 1,
+        "released_at": "2024-05-30",
+        "item": "item-016",
+        "user": "editor-19",
+        "slate": "slate-75",
+        "propensity": 0.268
+      },
+      {
+        "id": "view-452",
+        "revision": 1,
+        "released_at": "2024-05-30",
+        "item": "item-041",
+        "user": "editor-20",
+        "slate": "slate-75",
+        "propensity": 0.182
+      },
+      {
+        "id": "view-453",
+        "revision": 1,
+        "released_at": "2024-05-31",
+        "item": "item-026",
+        "user": "editor-21",
+        "slate": "slate-75",
+        "propensity": 0.52
+      },
+      {
+        "id": "view-454",
+        "revision": 1,
+        "released_at": "2024-05-31",
+        "item": "item-028",
+        "user": "editor-22",
+        "slate": "slate-75",
+        "propensity": 0.431
+      },
+      {
+        "id": "view-455",
+        "revision": 1,
+        "released_at": "2024-05-31",
+        "item": "item-025",
+        "user": "editor-23",
+        "slate": "slate-75",
+        "propensity": 0.189
+      },
+      {
+        "id": "view-456",
+        "revision": 1,
+        "released_at": "2024-06-01",
+        "item": "item-059",
+        "user": "editor-00",
+        "slate": "slate-76",
+        "propensity": 0.543
+      },
+      {
+        "id": "view-457",
+        "revision": 1,
+        "released_at": "2024-06-01",
+        "item": "item-063",
+        "user": "editor-01",
+        "slate": "slate-76",
+        "propensity": 0.179
+      },
+      {
+        "id": "view-458",
+        "revision": 1,
+        "released_at": "2024-06-01",
+        "item": "item-001",
+        "user": "editor-02",
+        "slate": "slate-76",
+        "propensity": 0.186
+      },
+      {
+        "id": "view-459",
+        "revision": 1,
+        "released_at": "2024-06-02",
+        "item": "item-032",
+        "user": "editor-03",
+        "slate": "slate-76",
+        "propensity": 0.536
+      },
+      {
+        "id": "view-460",
+        "revision": 1,
+        "released_at": "2024-06-02",
+        "item": "item-025",
+        "user": "editor-04",
+        "slate": "slate-76",
+        "propensity": 0.338
+      },
+      {
+        "id": "view-461",
+        "revision": 1,
+        "released_at": "2024-06-02",
+        "item": "item-005",
+        "user": "editor-05",
+        "slate": "slate-76",
+        "propensity": 0.414
+      },
+      {
+        "id": "view-462",
+        "revision": 1,
+        "released_at": "2024-06-03",
+        "item": "item-062",
+        "user": "editor-06",
+        "slate": "slate-77",
+        "propensity": 0.433
+      },
+      {
+        "id": "view-463",
+        "revision": 1,
+        "released_at": "2024-06-03",
+        "item": "item-046",
+        "user": "editor-07",
+        "slate": "slate-77",
+        "propensity": 0.338
+      },
+      {
+        "id": "view-464",
+        "revision": 1,
+        "released_at": "2024-06-03",
+        "item": "item-039",
+        "user": "editor-08",
+        "slate": "slate-77",
+        "propensity": 0.319
+      },
+      {
+        "id": "view-465",
+        "revision": 1,
+        "released_at": "2024-06-04",
+        "item": "item-053",
+        "user": "editor-09",
+        "slate": "slate-77",
+        "propensity": 0.186
+      },
+      {
+        "id": "view-466",
+        "revision": 1,
+        "released_at": "2024-06-04",
+        "item": "item-035",
+        "user": "editor-10",
+        "slate": "slate-77",
+        "propensity": 0.135
+      },
+      {
+        "id": "view-467",
+        "revision": 1,
+        "released_at": "2024-06-04",
+        "item": "item-027",
+        "user": "editor-11",
+        "slate": "slate-77",
+        "propensity": 0.29
+      },
+      {
+        "id": "view-468",
+        "revision": 1,
+        "released_at": "2024-06-05",
+        "item": "item-004",
+        "user": "editor-12",
+        "slate": "slate-78",
+        "propensity": 0.189
+      },
+      {
+        "id": "view-469",
+        "revision": 1,
+        "released_at": "2024-06-05",
+        "item": "item-037",
+        "user": "editor-13",
+        "slate": "slate-78",
+        "propensity": 0.245
+      },
+      {
+        "id": "view-470",
+        "revision": 1,
+        "released_at": "2024-06-05",
+        "item": "item-032",
+        "user": "editor-14",
+        "slate": "slate-78",
+        "propensity": 0.248
+      },
+      {
+        "id": "view-471",
+        "revision": 1,
+        "released_at": "2024-06-06",
+        "item": "item-011",
+        "user": "editor-15",
+        "slate": "slate-78",
+        "propensity": 0.474
+      },
+      {
+        "id": "view-472",
+        "revision": 1,
+        "released_at": "2024-06-06",
+        "item": "item-039",
+        "user": "editor-16",
+        "slate": "slate-78",
+        "propensity": 0.142
+      },
+      {
+        "id": "view-473",
+        "revision": 1,
+        "released_at": "2024-06-06",
+        "item": "item-013",
+        "user": "editor-17",
+        "slate": "slate-78",
+        "propensity": 0.582
+      },
+      {
+        "id": "view-474",
+        "revision": 1,
+        "released_at": "2024-06-07",
+        "item": "item-001",
+        "user": "editor-18",
+        "slate": "slate-79",
+        "propensity": 0.15
+      },
+      {
+        "id": "view-475",
+        "revision": 1,
+        "released_at": "2024-06-07",
+        "item": "item-050",
+        "user": "editor-19",
+        "slate": "slate-79",
+        "propensity": 0.541
+      },
+      {
+        "id": "view-476",
+        "revision": 1,
+        "released_at": "2024-06-07",
+        "item": "item-001",
+        "user": "editor-20",
+        "slate": "slate-79",
+        "propensity": 0.306
+      },
+      {
+        "id": "view-477",
+        "revision": 1,
+        "released_at": "2024-06-08",
+        "item": "item-030",
+        "user": "editor-21",
+        "slate": "slate-79",
+        "propensity": 0.421
+      },
+      {
+        "id": "view-478",
+        "revision": 1,
+        "released_at": "2024-06-08",
+        "item": "item-012",
+        "user": "editor-22",
+        "slate": "slate-79",
+        "propensity": 0.428
+      },
+      {
+        "id": "view-479",
+        "revision": 1,
+        "released_at": "2024-06-08",
+        "item": "item-046",
+        "user": "editor-23",
+        "slate": "slate-79",
+        "propensity": 0.159
+      }
+    ],
+    "actions": [
+      {
+        "id": "action-0",
+        "revision": 1,
+        "released_at": "2024-01-02",
+        "impression": "view-0",
+        "user": "editor-00",
+        "item": "item-038",
+        "action": "open"
+      },
+      {
+        "id": "action-4",
+        "revision": 1,
+        "released_at": "2024-01-03",
+        "impression": "view-4",
+        "user": "editor-04",
+        "item": "item-022",
+        "action": "save"
+      },
+      {
+        "id": "action-9",
+        "revision": 1,
+        "released_at": "2024-01-05",
+        "impression": "view-9",
+        "user": "editor-09",
+        "item": "item-016",
+        "action": "open"
+      },
+      {
+        "id": "action-17",
+        "revision": 1,
+        "released_at": "2024-01-07",
+        "impression": "view-17",
+        "user": "editor-17",
+        "item": "item-010",
+        "action": "save"
+      },
+      {
+        "id": "action-18",
+        "revision": 1,
+        "released_at": "2024-01-08",
+        "impression": "view-18",
+        "user": "editor-18",
+        "item": "item-029",
+        "action": "open"
+      },
+      {
+        "id": "action-22",
+        "revision": 1,
+        "released_at": "2024-01-09",
+        "impression": "view-22",
+        "user": "editor-22",
+        "item": "item-031",
+        "action": "save"
+      },
+      {
+        "id": "action-24",
+        "revision": 1,
+        "released_at": "2024-01-10",
+        "impression": "view-24",
+        "user": "editor-00",
+        "item": "item-049",
+        "action": "open"
+      },
+      {
+        "id": "action-26",
+        "revision": 1,
+        "released_at": "2024-01-10",
+        "impression": "view-26",
+        "user": "editor-02",
+        "item": "item-007",
+        "action": "save"
+      },
+      {
+        "id": "action-27",
+        "revision": 1,
+        "released_at": "2024-01-11",
+        "impression": "view-27",
+        "user": "editor-03",
+        "item": "item-039",
+        "action": "open"
+      },
+      {
+        "id": "action-28",
+        "revision": 1,
+        "released_at": "2024-01-11",
+        "impression": "view-28",
+        "user": "editor-04",
+        "item": "item-052",
+        "action": "save"
+      },
+      {
+        "id": "action-29",
+        "revision": 1,
+        "released_at": "2024-01-11",
+        "impression": "view-29",
+        "user": "editor-05",
+        "item": "item-031",
+        "action": "save"
+      },
+      {
+        "id": "action-30",
+        "revision": 1,
+        "released_at": "2024-01-12",
+        "impression": "view-30",
+        "user": "editor-06",
+        "item": "item-022",
+        "action": "open"
+      },
+      {
+        "id": "action-32",
+        "revision": 1,
+        "released_at": "2024-01-12",
+        "impression": "view-32",
+        "user": "editor-08",
+        "item": "item-030",
+        "action": "save"
+      },
+      {
+        "id": "action-61",
+        "revision": 1,
+        "released_at": "2024-01-22",
+        "impression": "view-61",
+        "user": "editor-13",
+        "item": "item-034",
+        "action": "save"
+      },
+      {
+        "id": "action-67",
+        "revision": 1,
+        "released_at": "2024-01-24",
+        "impression": "view-67",
+        "user": "editor-19",
+        "item": "item-007",
+        "action": "save"
+      },
+      {
+        "id": "action-70",
+        "revision": 1,
+        "released_at": "2024-01-25",
+        "impression": "view-70",
+        "user": "editor-22",
+        "item": "item-018",
+        "action": "save"
+      },
+      {
+        "id": "action-72",
+        "revision": 1,
+        "released_at": "2024-01-26",
+        "impression": "view-72",
+        "user": "editor-00",
+        "item": "item-023",
+        "action": "open"
+      },
+      {
+        "id": "action-75",
+        "revision": 1,
+        "released_at": "2024-01-27",
+        "impression": "view-75",
+        "user": "editor-03",
+        "item": "item-015",
+        "action": "open"
+      },
+      {
+        "id": "action-76",
+        "revision": 1,
+        "released_at": "2024-01-27",
+        "impression": "view-76",
+        "user": "editor-04",
+        "item": "item-034",
+        "action": "save"
+      },
+      {
+        "id": "action-81",
+        "revision": 1,
+        "released_at": "2024-01-29",
+        "impression": "view-81",
+        "user": "editor-09",
+        "item": "item-059",
+        "action": "open"
+      },
+      {
+        "id": "action-84",
+        "revision": 1,
+        "released_at": "2024-01-30",
+        "impression": "view-84",
+        "user": "editor-12",
+        "item": "item-045",
+        "action": "open"
+      },
+      {
+        "id": "action-85",
+        "revision": 1,
+        "released_at": "2024-01-30",
+        "impression": "view-85",
+        "user": "editor-13",
+        "item": "item-035",
+        "action": "save"
+      },
+      {
+        "id": "action-86",
+        "revision": 1,
+        "released_at": "2024-01-30",
+        "impression": "view-86",
+        "user": "editor-14",
+        "item": "item-025",
+        "action": "save"
+      },
+      {
+        "id": "action-90",
+        "revision": 1,
+        "released_at": "2024-02-01",
+        "impression": "view-90",
+        "user": "editor-18",
+        "item": "item-032",
+        "action": "open"
+      },
+      {
+        "id": "action-96",
+        "revision": 1,
+        "released_at": "2024-02-03",
+        "impression": "view-96",
+        "user": "editor-00",
+        "item": "item-031",
+        "action": "open"
+      },
+      {
+        "id": "action-103",
+        "revision": 1,
+        "released_at": "2024-02-05",
+        "impression": "view-103",
+        "user": "editor-07",
+        "item": "item-005",
+        "action": "save"
+      },
+      {
+        "id": "action-104",
+        "revision": 1,
+        "released_at": "2024-02-05",
+        "impression": "view-104",
+        "user": "editor-08",
+        "item": "item-028",
+        "action": "save"
+      },
+      {
+        "id": "action-111",
+        "revision": 1,
+        "released_at": "2024-02-08",
+        "impression": "view-111",
+        "user": "editor-15",
+        "item": "item-014",
+        "action": "open"
+      },
+      {
+        "id": "action-129",
+        "revision": 1,
+        "released_at": "2024-02-14",
+        "impression": "view-129",
+        "user": "editor-09",
+        "item": "item-049",
+        "action": "open"
+      },
+      {
+        "id": "action-134",
+        "revision": 1,
+        "released_at": "2024-02-15",
+        "impression": "view-134",
+        "user": "editor-14",
+        "item": "item-034",
+        "action": "save"
+      },
+      {
+        "id": "action-135",
+        "revision": 1,
+        "released_at": "2024-02-16",
+        "impression": "view-135",
+        "user": "editor-15",
+        "item": "item-009",
+        "action": "open"
+      },
+      {
+        "id": "action-150",
+        "revision": 1,
+        "released_at": "2024-02-21",
+        "impression": "view-150",
+        "user": "editor-06",
+        "item": "item-049",
+        "action": "open"
+      },
+      {
+        "id": "action-157",
+        "revision": 1,
+        "released_at": "2024-02-23",
+        "impression": "view-157",
+        "user": "editor-13",
+        "item": "item-038",
+        "action": "save"
+      },
+      {
+        "id": "action-159",
+        "revision": 1,
+        "released_at": "2024-02-24",
+        "impression": "view-159",
+        "user": "editor-15",
+        "item": "item-056",
+        "action": "open"
+      },
+      {
+        "id": "action-162",
+        "revision": 1,
+        "released_at": "2024-02-25",
+        "impression": "view-162",
+        "user": "editor-18",
+        "item": "item-047",
+        "action": "open"
+      },
+      {
+        "id": "action-178",
+        "revision": 1,
+        "released_at": "2024-03-01",
+        "impression": "view-178",
+        "user": "editor-10",
+        "item": "item-057",
+        "action": "save"
+      },
+      {
+        "id": "action-185",
+        "revision": 1,
+        "released_at": "2024-03-03",
+        "impression": "view-185",
+        "user": "editor-17",
+        "item": "item-020",
+        "action": "save"
+      },
+      {
+        "id": "action-186",
+        "revision": 1,
+        "released_at": "2024-03-04",
+        "impression": "view-186",
+        "user": "editor-18",
+        "item": "item-061",
+        "action": "open"
+      },
+      {
+        "id": "action-194",
+        "revision": 1,
+        "released_at": "2024-03-06",
+        "impression": "view-194",
+        "user": "editor-02",
+        "item": "item-048",
+        "action": "save"
+      },
+      {
+        "id": "action-196",
+        "revision": 1,
+        "released_at": "2024-03-07",
+        "impression": "view-196",
+        "user": "editor-04",
+        "item": "item-012",
+        "action": "save"
+      },
+      {
+        "id": "action-207",
+        "revision": 1,
+        "released_at": "2024-03-11",
+        "impression": "view-207",
+        "user": "editor-15",
+        "item": "item-054",
+        "action": "open"
+      },
+      {
+        "id": "action-211",
+        "revision": 1,
+        "released_at": "2024-03-12",
+        "impression": "view-211",
+        "user": "editor-19",
+        "item": "item-053",
+        "action": "save"
+      },
+      {
+        "id": "action-212",
+        "revision": 1,
+        "released_at": "2024-03-12",
+        "impression": "view-212",
+        "user": "editor-20",
+        "item": "item-035",
+        "action": "save"
+      },
+      {
+        "id": "action-214",
+        "revision": 1,
+        "released_at": "2024-03-13",
+        "impression": "view-214",
+        "user": "editor-22",
+        "item": "item-021",
+        "action": "save"
+      },
+      {
+        "id": "action-218",
+        "revision": 1,
+        "released_at": "2024-03-14",
+        "impression": "view-218",
+        "user": "editor-02",
+        "item": "item-045",
+        "action": "save"
+      },
+      {
+        "id": "action-223",
+        "revision": 1,
+        "released_at": "2024-03-16",
+        "impression": "view-223",
+        "user": "editor-07",
+        "item": "item-005",
+        "action": "save"
+      },
+      {
+        "id": "action-233",
+        "revision": 1,
+        "released_at": "2024-03-19",
+        "impression": "view-233",
+        "user": "editor-17",
+        "item": "item-037",
+        "action": "save"
+      },
+      {
+        "id": "action-235",
+        "revision": 1,
+        "released_at": "2024-03-20",
+        "impression": "view-235",
+        "user": "editor-19",
+        "item": "item-034",
+        "action": "save"
+      },
+      {
+        "id": "action-236",
+        "revision": 1,
+        "released_at": "2024-03-20",
+        "impression": "view-236",
+        "user": "editor-20",
+        "item": "item-007",
+        "action": "save"
+      },
+      {
+        "id": "action-239",
+        "revision": 1,
+        "released_at": "2024-03-21",
+        "impression": "view-239",
+        "user": "editor-23",
+        "item": "item-021",
+        "action": "save"
+      },
+      {
+        "id": "action-240",
+        "revision": 1,
+        "released_at": "2024-03-22",
+        "impression": "view-240",
+        "user": "editor-00",
+        "item": "item-012",
+        "action": "open"
+      },
+      {
+        "id": "action-241",
+        "revision": 1,
+        "released_at": "2024-03-22",
+        "impression": "view-241",
+        "user": "editor-01",
+        "item": "item-058",
+        "action": "save"
+      },
+      {
+        "id": "action-244",
+        "revision": 1,
+        "released_at": "2024-03-23",
+        "impression": "view-244",
+        "user": "editor-04",
+        "item": "item-031",
+        "action": "save"
+      },
+      {
+        "id": "action-247",
+        "revision": 1,
+        "released_at": "2024-03-24",
+        "impression": "view-247",
+        "user": "editor-07",
+        "item": "item-014",
+        "action": "save"
+      },
+      {
+        "id": "action-249",
+        "revision": 1,
+        "released_at": "2024-03-25",
+        "impression": "view-249",
+        "user": "editor-09",
+        "item": "item-010",
+        "action": "open"
+      },
+      {
+        "id": "action-253",
+        "revision": 1,
+        "released_at": "2024-03-26",
+        "impression": "view-253",
+        "user": "editor-13",
+        "item": "item-051",
+        "action": "save"
+      },
+      {
+        "id": "action-256",
+        "revision": 1,
+        "released_at": "2024-03-27",
+        "impression": "view-256",
+        "user": "editor-16",
+        "item": "item-030",
+        "action": "save"
+      },
+      {
+        "id": "action-257",
+        "revision": 1,
+        "released_at": "2024-03-27",
+        "impression": "view-257",
+        "user": "editor-17",
+        "item": "item-057",
+        "action": "save"
+      },
+      {
+        "id": "action-259",
+        "revision": 1,
+        "released_at": "2024-03-28",
+        "impression": "view-259",
+        "user": "editor-19",
+        "item": "item-009",
+        "action": "save"
+      },
+      {
+        "id": "action-266",
+        "revision": 1,
+        "released_at": "2024-03-30",
+        "impression": "view-266",
+        "user": "editor-02",
+        "item": "item-037",
+        "action": "save"
+      },
+      {
+        "id": "action-268",
+        "revision": 1,
+        "released_at": "2024-03-31",
+        "impression": "view-268",
+        "user": "editor-04",
+        "item": "item-008",
+        "action": "save"
+      },
+      {
+        "id": "action-269",
+        "revision": 1,
+        "released_at": "2024-03-31",
+        "impression": "view-269",
+        "user": "editor-05",
+        "item": "item-016",
+        "action": "save"
+      },
+      {
+        "id": "action-271",
+        "revision": 1,
+        "released_at": "2024-04-01",
+        "impression": "view-271",
+        "user": "editor-07",
+        "item": "item-036",
+        "action": "save"
+      },
+      {
+        "id": "action-281",
+        "revision": 1,
+        "released_at": "2024-04-04",
+        "impression": "view-281",
+        "user": "editor-17",
+        "item": "item-048",
+        "action": "save"
+      },
+      {
+        "id": "action-285",
+        "revision": 1,
+        "released_at": "2024-04-06",
+        "impression": "view-285",
+        "user": "editor-21",
+        "item": "item-018",
+        "action": "open"
+      },
+      {
+        "id": "action-293",
+        "revision": 1,
+        "released_at": "2024-04-08",
+        "impression": "view-293",
+        "user": "editor-05",
+        "item": "item-027",
+        "action": "save"
+      },
+      {
+        "id": "action-299",
+        "revision": 1,
+        "released_at": "2024-04-10",
+        "impression": "view-299",
+        "user": "editor-11",
+        "item": "item-044",
+        "action": "save"
+      },
+      {
+        "id": "action-307",
+        "revision": 1,
+        "released_at": "2024-04-13",
+        "impression": "view-307",
+        "user": "editor-19",
+        "item": "item-048",
+        "action": "save"
+      },
+      {
+        "id": "action-308",
+        "revision": 1,
+        "released_at": "2024-04-13",
+        "impression": "view-308",
+        "user": "editor-20",
+        "item": "item-058",
+        "action": "save"
+      },
+      {
+        "id": "action-318",
+        "revision": 1,
+        "released_at": "2024-04-17",
+        "impression": "view-318",
+        "user": "editor-06",
+        "item": "item-040",
+        "action": "open"
+      },
+      {
+        "id": "action-321",
+        "revision": 1,
+        "released_at": "2024-04-18",
+        "impression": "view-321",
+        "user": "editor-09",
+        "item": "item-008",
+        "action": "open"
+      },
+      {
+        "id": "action-323",
+        "revision": 1,
+        "released_at": "2024-04-18",
+        "impression": "view-323",
+        "user": "editor-11",
+        "item": "item-051",
+        "action": "save"
+      },
+      {
+        "id": "action-331",
+        "revision": 1,
+        "released_at": "2024-04-21",
+        "impression": "view-331",
+        "user": "editor-19",
+        "item": "item-016",
+        "action": "save"
+      },
+      {
+        "id": "action-333",
+        "revision": 1,
+        "released_at": "2024-04-22",
+        "impression": "view-333",
+        "user": "editor-21",
+        "item": "item-005",
+        "action": "open"
+      },
+      {
+        "id": "action-334",
+        "revision": 1,
+        "released_at": "2024-04-22",
+        "impression": "view-334",
+        "user": "editor-22",
+        "item": "item-038",
+        "action": "save"
+      },
+      {
+        "id": "action-336",
+        "revision": 1,
+        "released_at": "2024-04-23",
+        "impression": "view-336",
+        "user": "editor-00",
+        "item": "item-022",
+        "action": "open"
+      },
+      {
+        "id": "action-347",
+        "revision": 1,
+        "released_at": "2024-04-26",
+        "impression": "view-347",
+        "user": "editor-11",
+        "item": "item-006",
+        "action": "save"
+      },
+      {
+        "id": "action-354",
+        "revision": 1,
+        "released_at": "2024-04-29",
+        "impression": "view-354",
+        "user": "editor-18",
+        "item": "item-000",
+        "action": "open"
+      },
+      {
+        "id": "action-355",
+        "revision": 1,
+        "released_at": "2024-04-29",
+        "impression": "view-355",
+        "user": "editor-19",
+        "item": "item-057",
+        "action": "save"
+      },
+      {
+        "id": "action-360",
+        "revision": 1,
+        "released_at": "2024-05-01",
+        "impression": "view-360",
+        "user": "editor-00",
+        "item": "item-061",
+        "action": "open"
+      },
+      {
+        "id": "action-369",
+        "revision": 1,
+        "released_at": "2024-05-04",
+        "impression": "view-369",
+        "user": "editor-09",
+        "item": "item-051",
+        "action": "open"
+      },
+      {
+        "id": "action-371",
+        "revision": 1,
+        "released_at": "2024-05-04",
+        "impression": "view-371",
+        "user": "editor-11",
+        "item": "item-018",
+        "action": "save"
+      },
+      {
+        "id": "action-377",
+        "revision": 1,
+        "released_at": "2024-05-06",
+        "impression": "view-377",
+        "user": "editor-17",
+        "item": "item-023",
+        "action": "save"
+      },
+      {
+        "id": "action-379",
+        "revision": 1,
+        "released_at": "2024-05-07",
+        "impression": "view-379",
+        "user": "editor-19",
+        "item": "item-015",
+        "action": "save"
+      },
+      {
+        "id": "action-389",
+        "revision": 1,
+        "released_at": "2024-05-10",
+        "impression": "view-389",
+        "user": "editor-05",
+        "item": "item-040",
+        "action": "save"
+      },
+      {
+        "id": "action-393",
+        "revision": 1,
+        "released_at": "2024-05-12",
+        "impression": "view-393",
+        "user": "editor-09",
+        "item": "item-012",
+        "action": "open"
+      },
+      {
+        "id": "action-394",
+        "revision": 1,
+        "released_at": "2024-05-12",
+        "impression": "view-394",
+        "user": "editor-10",
+        "item": "item-002",
+        "action": "save"
+      },
+      {
+        "id": "action-396",
+        "revision": 1,
+        "released_at": "2024-05-13",
+        "impression": "view-396",
+        "user": "editor-12",
+        "item": "item-018",
+        "action": "open"
+      },
+      {
+        "id": "action-399",
+        "revision": 1,
+        "released_at": "2024-05-14",
+        "impression": "view-399",
+        "user": "editor-15",
+        "item": "item-001",
+        "action": "open"
+      },
+      {
+        "id": "action-400",
+        "revision": 1,
+        "released_at": "2024-05-14",
+        "impression": "view-400",
+        "user": "editor-16",
+        "item": "item-011",
+        "action": "save"
+      },
+      {
+        "id": "action-409",
+        "revision": 1,
+        "released_at": "2024-05-17",
+        "impression": "view-409",
+        "user": "editor-01",
+        "item": "item-038",
+        "action": "save"
+      },
+      {
+        "id": "action-421",
+        "revision": 1,
+        "released_at": "2024-05-21",
+        "impression": "view-421",
+        "user": "editor-13",
+        "item": "item-005",
+        "action": "save"
+      },
+      {
+        "id": "action-432",
+        "revision": 1,
+        "released_at": "2024-05-25",
+        "impression": "view-432",
+        "user": "editor-00",
+        "item": "item-037",
+        "action": "open"
+      },
+      {
+        "id": "action-435",
+        "revision": 1,
+        "released_at": "2024-05-26",
+        "impression": "view-435",
+        "user": "editor-03",
+        "item": "item-045",
+        "action": "open"
+      },
+      {
+        "id": "action-445",
+        "revision": 1,
+        "released_at": "2024-05-29",
+        "impression": "view-445",
+        "user": "editor-13",
+        "item": "item-028",
+        "action": "save"
+      },
+      {
+        "id": "action-447",
+        "revision": 1,
+        "released_at": "2024-05-30",
+        "impression": "view-447",
+        "user": "editor-15",
+        "item": "item-045",
+        "action": "open"
+      },
+      {
+        "id": "action-455",
+        "revision": 1,
+        "released_at": "2024-06-01",
+        "impression": "view-455",
+        "user": "editor-23",
+        "item": "item-025",
+        "action": "save"
+      },
+      {
+        "id": "action-462",
+        "revision": 1,
+        "released_at": "2024-06-04",
+        "impression": "view-462",
+        "user": "editor-06",
+        "item": "item-062",
+        "action": "open"
+      },
+      {
+        "id": "action-478",
+        "revision": 1,
+        "released_at": "2024-06-09",
+        "impression": "view-478",
+        "user": "editor-22",
+        "item": "item-012",
+        "action": "save"
+      }
+    ],
+    "eligibility": [
+      {
+        "id": "item-000",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "item": "item-000",
+        "allowed": true
+      },
+      {
+        "id": "item-001",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "item": "item-001",
+        "allowed": true
+      },
+      {
+        "id": "item-002",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "item": "item-002",
+        "allowed": true
+      },
+      {
+        "id": "item-003",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "item": "item-003",
+        "allowed": true
+      },
+      {
+        "id": "item-004",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "item": "item-004",
+        "allowed": true
+      },
+      {
+        "id": "item-005",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "item": "item-005",
+        "allowed": true
+      },
+      {
+        "id": "item-006",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "item": "item-006",
+        "allowed": true
+      },
+      {
+        "id": "item-007",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "item": "item-007",
+        "allowed": true
+      },
+      {
+        "id": "item-008",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "item": "item-008",
+        "allowed": true
+      },
+      {
+        "id": "item-009",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "item": "item-009",
+        "allowed": true
+      },
+      {
+        "id": "item-010",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "item": "item-010",
+        "allowed": true
+      },
+      {
+        "id": "item-011",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "item": "item-011",
+        "allowed": true
+      },
+      {
+        "id": "item-012",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "item": "item-012",
+        "allowed": true
+      },
+      {
+        "id": "item-013",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "item": "item-013",
+        "allowed": true
+      },
+      {
+        "id": "item-014",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "item": "item-014",
+        "allowed": true
+      },
+      {
+        "id": "item-015",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "item": "item-015",
+        "allowed": true
+      },
+      {
+        "id": "item-016",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "item": "item-016",
+        "allowed": true
+      },
+      {
+        "id": "item-017",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "item": "item-017",
+        "allowed": true
+      },
+      {
+        "id": "item-018",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "item": "item-018",
+        "allowed": true
+      },
+      {
+        "id": "item-019",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "item": "item-019",
+        "allowed": true
+      },
+      {
+        "id": "item-020",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "item": "item-020",
+        "allowed": true
+      },
+      {
+        "id": "item-021",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "item": "item-021",
+        "allowed": true
+      },
+      {
+        "id": "item-022",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "item": "item-022",
+        "allowed": true
+      },
+      {
+        "id": "item-023",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "item": "item-023",
+        "allowed": true
+      },
+      {
+        "id": "item-024",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "item": "item-024",
+        "allowed": true
+      },
+      {
+        "id": "item-025",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "item": "item-025",
+        "allowed": true
+      },
+      {
+        "id": "item-026",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "item": "item-026",
+        "allowed": true
+      },
+      {
+        "id": "item-027",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "item": "item-027",
+        "allowed": true
+      },
+      {
+        "id": "item-028",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "item": "item-028",
+        "allowed": true
+      },
+      {
+        "id": "item-029",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "item": "item-029",
+        "allowed": true
+      },
+      {
+        "id": "item-030",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "item": "item-030",
+        "allowed": true
+      },
+      {
+        "id": "item-031",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "item": "item-031",
+        "allowed": true
+      },
+      {
+        "id": "item-032",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "item": "item-032",
+        "allowed": true
+      },
+      {
+        "id": "item-033",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "item": "item-033",
+        "allowed": true
+      },
+      {
+        "id": "item-034",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "item": "item-034",
+        "allowed": true
+      },
+      {
+        "id": "item-035",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "item": "item-035",
+        "allowed": true
+      },
+      {
+        "id": "item-036",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "item": "item-036",
+        "allowed": true
+      },
+      {
+        "id": "item-037",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "item": "item-037",
+        "allowed": true
+      },
+      {
+        "id": "item-038",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "item": "item-038",
+        "allowed": true
+      },
+      {
+        "id": "item-039",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "item": "item-039",
+        "allowed": true
+      },
+      {
+        "id": "item-040",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "item": "item-040",
+        "allowed": true
+      },
+      {
+        "id": "item-041",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "item": "item-041",
+        "allowed": true
+      },
+      {
+        "id": "item-042",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "item": "item-042",
+        "allowed": true
+      },
+      {
+        "id": "item-043",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "item": "item-043",
+        "allowed": true
+      },
+      {
+        "id": "item-044",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "item": "item-044",
+        "allowed": true
+      },
+      {
+        "id": "item-045",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "item": "item-045",
+        "allowed": true
+      },
+      {
+        "id": "item-046",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "item": "item-046",
+        "allowed": true
+      },
+      {
+        "id": "item-047",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "item": "item-047",
+        "allowed": true
+      },
+      {
+        "id": "item-048",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "item": "item-048",
+        "allowed": true
+      },
+      {
+        "id": "item-049",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "item": "item-049",
+        "allowed": true
+      },
+      {
+        "id": "item-050",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "item": "item-050",
+        "allowed": true
+      },
+      {
+        "id": "item-051",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "item": "item-051",
+        "allowed": true
+      },
+      {
+        "id": "item-052",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "item": "item-052",
+        "allowed": true
+      },
+      {
+        "id": "item-053",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "item": "item-053",
+        "allowed": true
+      },
+      {
+        "id": "item-054",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "item": "item-054",
+        "allowed": true
+      },
+      {
+        "id": "item-055",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "item": "item-055",
+        "allowed": true
+      },
+      {
+        "id": "item-056",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "item": "item-056",
+        "allowed": true
+      },
+      {
+        "id": "item-057",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "item": "item-057",
+        "allowed": true
+      },
+      {
+        "id": "item-058",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "item": "item-058",
+        "allowed": true
+      },
+      {
+        "id": "item-059",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "item": "item-059",
+        "allowed": true
+      },
+      {
+        "id": "item-060",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "item": "item-060",
+        "allowed": true
+      },
+      {
+        "id": "item-061",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "item": "item-061",
+        "allowed": true
+      },
+      {
+        "id": "item-062",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "item": "item-062",
+        "allowed": true
+      },
+      {
+        "id": "item-063",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "item": "item-063",
+        "allowed": true
+      },
+      {
+        "id": "item-064",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "item": "item-064",
+        "allowed": true
+      },
+      {
+        "id": "item-065",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "item": "item-065",
+        "allowed": true
+      },
+      {
+        "id": "item-066",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "item": "item-066",
+        "allowed": true
+      },
+      {
+        "id": "item-067",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "item": "item-067",
+        "allowed": true
+      },
+      {
+        "id": "item-068",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "item": "item-068",
+        "allowed": true
+      },
+      {
+        "id": "item-069",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "item": "item-069",
+        "allowed": true
+      },
+      {
+        "id": "item-070",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "item": "item-070",
+        "allowed": true
+      },
+      {
+        "id": "item-071",
+        "revision": 1,
+        "released_at": "2024-01-01",
+        "item": "item-071",
+        "allowed": true
+      },
+      {
+        "id": "item-004",
+        "revision": 2,
+        "released_at": "2024-05-10",
+        "item": "item-004",
+        "allowed": false
+      }
+    ]
+  },
+  "policy": {
+    "blocked_items": [
+      "item-004"
+    ],
+    "revision": 1
+  }
+}
