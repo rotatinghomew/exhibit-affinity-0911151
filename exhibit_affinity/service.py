@@ -34,6 +34,10 @@ def make_server(bundle, store, host="127.0.0.1", port=0):
             try:
                 if target.path == "/health":
                     self.respond(200, {"status": "ok", "product": bundle["product"]})
+                elif target.path == "/bundle":
+                    # 完整修订历史；按时间回看需要旧代次来重建历史日期视图，
+                    # 冻结快照只保留最新代次，无法替代。
+                    self.respond(200, bundle)
                 elif target.path == "/snapshot":
                     as_of = parse_qs(target.query).get("as_of", ["2026-01-01"])[0]
                     date.fromisoformat(as_of)

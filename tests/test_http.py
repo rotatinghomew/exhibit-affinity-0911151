@@ -38,6 +38,21 @@ class IntegrationTests(unittest.TestCase):
             self.client.snapshot("wrong")
         self.assertEqual(error.exception.status, 400)
 
+    def test_bundle_exposes_full_revision_history(self):
+        bundle = self.client.bundle()
+        self.assertEqual(bundle["schema_version"], 1)
+        # 完整资料保留 item-004 的两个修订代次；冻结快照只留最新代次。
+        revisions = [row for row in bundle["tables"]["eligibility"] if row["item"] == "item-004"]
+        self.assertEqual(len(revisions), 2)
+        snapshot = self.client.snapshot("2026-01-01")
+        snapshot_rows = [row for row in snapshot["tables"]["eligibility"] if row["item"] == "item-004"]
+        # 快照只保留最新的撤回代次，旧的 allowed 代次已被折叠。
+        self.assertEqual(len(snapshot_rows), 1)
+        self.assertFalse(snapshot_rows[0]["allowed"])
+        # 因此最新资格视图里 item-004 不可选。
+        from exhibit_affinity.product import eligible_items
+        self.assertNotIn("item-004", eligible_items(snapshot))
+
     def test_overview_roundtrip(self):
         value = publish_overview(self.client, "2026-01-01", "http-overview")
         self.assertEqual(self.client.artifact(value["artifact_id"]), value["artifact"])

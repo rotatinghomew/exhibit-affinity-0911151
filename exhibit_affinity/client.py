@@ -29,6 +29,10 @@ class ProductClient:
     def snapshot(self, as_of):
         return self.request("/snapshot?as_of=" + as_of)
 
+    def bundle(self):
+        """完整资料（含全部修订代次），供按时间回看重建历史视图。"""
+        return self.request("/bundle")
+
     def policy(self):
         return self.request("/policy")
 
